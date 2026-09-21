@@ -1,0 +1,278 @@
+[
+  {
+    "Model": "flash",
+    "Role": "Driller vd_28-10_vol03_ch28.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_28-10_vol03_ch28.md. Run: python run_case_driller.py \"vd_28-10_vol03_ch28.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_28-10_vol03_ch28.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_28-11_vol03_ch28.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_28-11_vol03_ch28.md. Run: python run_case_driller.py \"vd_28-11_vol03_ch28.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_28-11_vol03_ch28.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_28-13_vol03_ch28.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_28-13_vol03_ch28.md. Run: python run_case_driller.py \"vd_28-13_vol03_ch28.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_28-13_vol03_ch28.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_28-15_vol03_ch28.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_28-15_vol03_ch28.md. Run: python run_case_driller.py \"vd_28-15_vol03_ch28.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_28-15_vol03_ch28.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_28-16_vol03_ch28.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_28-16_vol03_ch28.md. Run: python run_case_driller.py \"vd_28-16_vol03_ch28.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_28-16_vol03_ch28.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_28-19_vol03_ch28.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_28-19_vol03_ch28.md. Run: python run_case_driller.py \"vd_28-19_vol03_ch28.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_28-19_vol03_ch28.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_28-1_vol03_ch28.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_28-1_vol03_ch28.md. Run: python run_case_driller.py \"vd_28-1_vol03_ch28.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_28-1_vol03_ch28.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_28-20_vol03_ch28.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_28-20_vol03_ch28.md. Run: python run_case_driller.py \"vd_28-20_vol03_ch28.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_28-20_vol03_ch28.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_28-21_vol03_ch28.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_28-21_vol03_ch28.md. Run: python run_case_driller.py \"vd_28-21_vol03_ch28.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_28-21_vol03_ch28.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_28-3_vol03_ch28.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_28-3_vol03_ch28.md. Run: python run_case_driller.py \"vd_28-3_vol03_ch28.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_28-3_vol03_ch28.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_28-4_vol03_ch28.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_28-4_vol03_ch28.md. Run: python run_case_driller.py \"vd_28-4_vol03_ch28.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_28-4_vol03_ch28.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_28-5_vol03_ch28.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_28-5_vol03_ch28.md. Run: python run_case_driller.py \"vd_28-5_vol03_ch28.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_28-5_vol03_ch28.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_28-6_vol03_ch28.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_28-6_vol03_ch28.md. Run: python run_case_driller.py \"vd_28-6_vol03_ch28.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_28-6_vol03_ch28.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_28-7_vol03_ch28.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_28-7_vol03_ch28.md. Run: python run_case_driller.py \"vd_28-7_vol03_ch28.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_28-7_vol03_ch28.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_28-8_vol03_ch28.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_28-8_vol03_ch28.md. Run: python run_case_driller.py \"vd_28-8_vol03_ch28.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_28-8_vol03_ch28.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_28-9_vol03_ch28.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_28-9_vol03_ch28.md. Run: python run_case_driller.py \"vd_28-9_vol03_ch28.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_28-9_vol03_ch28.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_29-10_vol03_ch29.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_29-10_vol03_ch29.md. Run: python run_case_driller.py \"vd_29-10_vol03_ch29.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_29-10_vol03_ch29.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_29-11_vol03_ch29.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_29-11_vol03_ch29.md. Run: python run_case_driller.py \"vd_29-11_vol03_ch29.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_29-11_vol03_ch29.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_29-12_vol03_ch29.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_29-12_vol03_ch29.md. Run: python run_case_driller.py \"vd_29-12_vol03_ch29.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_29-12_vol03_ch29.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_29-13_vol03_ch29.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_29-13_vol03_ch29.md. Run: python run_case_driller.py \"vd_29-13_vol03_ch29.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_29-13_vol03_ch29.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_29-3_vol03_ch29.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_29-3_vol03_ch29.md. Run: python run_case_driller.py \"vd_29-3_vol03_ch29.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_29-3_vol03_ch29.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_29-4_vol03_ch29.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_29-4_vol03_ch29.md. Run: python run_case_driller.py \"vd_29-4_vol03_ch29.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_29-4_vol03_ch29.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_29-5_vol03_ch29.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_29-5_vol03_ch29.md. Run: python run_case_driller.py \"vd_29-5_vol03_ch29.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_29-5_vol03_ch29.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_29-6_vol03_ch29.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_29-6_vol03_ch29.md. Run: python run_case_driller.py \"vd_29-6_vol03_ch29.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_29-6_vol03_ch29.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_29-7_vol03_ch29.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_29-7_vol03_ch29.md. Run: python run_case_driller.py \"vd_29-7_vol03_ch29.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_29-7_vol03_ch29.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_29_vol03_ch29.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_29_vol03_ch29.md. Run: python run_case_driller.py \"vd_29_vol03_ch29.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_29_vol03_ch29.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_30-10_vol03_ch30.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_30-10_vol03_ch30.md. Run: python run_case_driller.py \"vd_30-10_vol03_ch30.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_30-10_vol03_ch30.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_30-11_vol03_ch30.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_30-11_vol03_ch30.md. Run: python run_case_driller.py \"vd_30-11_vol03_ch30.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_30-11_vol03_ch30.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_30-1_vol03_ch30.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_30-1_vol03_ch30.md. Run: python run_case_driller.py \"vd_30-1_vol03_ch30.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_30-1_vol03_ch30.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_30-2_vol03_ch30.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_30-2_vol03_ch30.md. Run: python run_case_driller.py \"vd_30-2_vol03_ch30.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_30-2_vol03_ch30.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_30-3_vol03_ch30.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_30-3_vol03_ch30.md. Run: python run_case_driller.py \"vd_30-3_vol03_ch30.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_30-3_vol03_ch30.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_30-5_vol03_ch30.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_30-5_vol03_ch30.md. Run: python run_case_driller.py \"vd_30-5_vol03_ch30.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_30-5_vol03_ch30.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_30-6_vol03_ch30.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_30-6_vol03_ch30.md. Run: python run_case_driller.py \"vd_30-6_vol03_ch30.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_30-6_vol03_ch30.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_30-7_vol03_ch30.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_30-7_vol03_ch30.md. Run: python run_case_driller.py \"vd_30-7_vol03_ch30.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_30-7_vol03_ch30.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_30-8_vol03_ch30.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_30-8_vol03_ch30.md. Run: python run_case_driller.py \"vd_30-8_vol03_ch30.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_30-8_vol03_ch30.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_30-9_vol03_ch30.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_30-9_vol03_ch30.md. Run: python run_case_driller.py \"vd_30-9_vol03_ch30.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_30-9_vol03_ch30.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_31-10_vol03_ch31.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_31-10_vol03_ch31.md. Run: python run_case_driller.py \"vd_31-10_vol03_ch31.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_31-10_vol03_ch31.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_31-11_vol03_ch31.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_31-11_vol03_ch31.md. Run: python run_case_driller.py \"vd_31-11_vol03_ch31.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_31-11_vol03_ch31.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_31-12_vol03_ch31.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_31-12_vol03_ch31.md. Run: python run_case_driller.py \"vd_31-12_vol03_ch31.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_31-12_vol03_ch31.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_31-13_vol03_ch31.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_31-13_vol03_ch31.md. Run: python run_case_driller.py \"vd_31-13_vol03_ch31.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_31-13_vol03_ch31.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_31-14_vol03_ch31.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_31-14_vol03_ch31.md. Run: python run_case_driller.py \"vd_31-14_vol03_ch31.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_31-14_vol03_ch31.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_31-15_vol03_ch31.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_31-15_vol03_ch31.md. Run: python run_case_driller.py \"vd_31-15_vol03_ch31.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_31-15_vol03_ch31.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_31-16_vol03_ch31.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_31-16_vol03_ch31.md. Run: python run_case_driller.py \"vd_31-16_vol03_ch31.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_31-16_vol03_ch31.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_31-17_vol03_ch31.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_31-17_vol03_ch31.md. Run: python run_case_driller.py \"vd_31-17_vol03_ch31.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_31-17_vol03_ch31.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_31-1_vol03_ch31.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_31-1_vol03_ch31.md. Run: python run_case_driller.py \"vd_31-1_vol03_ch31.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_31-1_vol03_ch31.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  },
+  {
+    "Model": "flash",
+    "Role": "Driller vd_31-2_vol03_ch31.md",
+    "TypeName": "case_driller",
+    "Prompt": "Process case vd_31-2_vol03_ch31.md. Run: python run_case_driller.py \"vd_31-2_vol03_ch31.md\" \"C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol03_cases\\vd_31-2_vol03_ch31.json\". Verify output JSON exists and satisfies ASD-STE100 technical card constraints with all required non-empty fields. Notify parent when finished."
+  }
+]
