@@ -366,25 +366,6 @@
 
 
 
-### 📚 Các ca ví dụ thực tế nghiệm chứng (1 ca)
-
-### Ví dụ 1-1 vol01 ch01: Ngày Canh Dần tháng Thìn (tuần không: Ngọ Mùi)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Theo cổ luận, xem giới tính thai nhi, một hào độc phát dương động biến âm...
-  - **Dã Hạc**: Không phải lý luận có vấn đề, mà là Ngài đem lý luận dùng nhầm chỗ, nguyên nhân...
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | TRẠCH ĐỊA TỤY | LÔI ĐỊA DỰ |
-    |---|---|
-    |  |  |
-    | **Tụ Cát** | **Dự Bình** |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-
 ## Chương IV: Phương thức sắp xếp quẻ chính xác (Phương pháp lập quẻ chính xác)
 
 ### 1. Khái niệm phân định âm dương khi lên quẻ
@@ -1502,6 +1483,8 @@
 
 
 
+
+
 ### 📚 Các ca ví dụ thực tế nghiệm chứng (6 ca)
 
 ### Ví dụ case1 vol01 ch07: Ngày Canh Thìn tháng Tuất (Tuần không: Thân Dậu) (trích từ «...
@@ -1527,7 +1510,7 @@
 ### Ví dụ case2 vol01 ch07: Ngày Bính Thìn tháng Mão (tuần không: Tý Sửu) (trích từ «...
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Bố bị bệnh
   - **Dã Hạc**: Hợi Thủy khắc Phụ, nay đông khổ kéo dài.
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -1580,7 +1563,7 @@
 ### Ví dụ case5 vol01 ch07: Ngày Tân Mão tháng Dần (Tuần không: Ngọ Mùi) (trích từ «...
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Lại
   - **Dã Hạc**: Quẻ này lại là Phụ động gặp không, may mắn được Nhật Nguyệt sinh Phụ, tương đối khác...
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -1975,12 +1958,14 @@
 
 
 
+
+
 ### 📚 Các ca ví dụ thực tế nghiệm chứng (9 ca)
 
 ### Ví dụ case1 vol01 ch09: Ngày Giáp Dần tháng Mão (Tuần không: Tý Sửu)
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Như nó không bị phá
   - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -2020,7 +2005,7 @@
 ### Ví dụ case3 vol01 ch09: Ngày Quý Tị tháng Dậu (Tuần không: Ngọ Mùi)
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Có thể kết hôn với bạn gái được hay không
   - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -2035,7 +2020,7 @@
 ### Ví dụ case4 vol01 ch09: Ngày Quý Tị tháng Dậu (Tuần không: Ngọ Mùi)
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Không hiểu quẻ này
   - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -2099,7 +2084,7 @@
 ### Ví dụ case8 vol01 ch09: Ngày Canh Thân tháng Thìn (Tuần không: Tý Sửu)
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Về xin việc
   - **Dã Hạc**: "Nguyên thần Sửu thổ không vong, ngày Sửu xuất không sẽ có thể nhận được tin. Sau đúng...
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -2119,7 +2104,7 @@
 ### Ví dụ case9 vol01 ch09: Ngày Ất Mùi tháng Tị (Tuần không: Thìn Tị) (trích từ «...
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Bệnh hào Thế Hợi Thủy làm Dụng thần
   - **Dã Hạc**: Tự xem bệnh hào Thế Hợi Thủy làm Dụng thần, bị Mùi thổ kị thần động mà khắc...
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -2723,211 +2708,6 @@
 
 
 
-### 📚 Các ca ví dụ thực tế nghiệm chứng (11 ca)
-
-### Ví dụ case10 vol01 ch11: Ngày Giáp Tuất tháng Thìn (Tuần không: Thân Dậu)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | TÁY | Lục Thân | Can Chi | Phục thần | Lục Thân | Can Chi | Lục Thú | Hào |
-    |---|---|---|---|---|---|---|---|---|
-    | --- |  | Quan Quỷ | Dần-Mộc |  | Huynh Đệ | Tuất-Thổ | Huyền Vũ | --- |
-    | - - |  | Thê Tài | Tý-Thủy |  | Tử Tôn | Thân-Kim | Bạch Hổ | - - X |
-    | - - | Ứng | Huynh Đệ | Tuất-Thổ |  | Phụ Mẫu | Ngọ-Hỏa | Đằng Xà | --- |
-    | --- |  | Thê Tài | Hợi-Thủy | Tử-Thủy | Huynh Đệ | Thìn-Thổ | Câu Trần | - - |
-    | - - |  | Huynh Đệ | Sửu-Thổ | Phụ-Ngọ | Quan Quỷ | Dần-Mộc | Chu Tước | - - |
-    | --- | Thế | Quan Quỷ | Mão-Mộc |  | Thê Tài | Tý-Thủy | Thanh Long | --- |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
-
-### Ví dụ case11 vol01 ch11: Bính Tý tháng Thân (Tuần không: Thân Dậu) (trích từ « Tăng...
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Thủy là Tử tôn không xuất hiện, lại được tháng Bính năm Tân, Bính Tân hóa thủy, sau...
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | TƯ | Lục Thân | Can Chi | Phục thần |  | Lục Thân | Can Chi | Lục Thú | Hào |
-    |---|---|---|---|---|---|---|---|---|---|
-    | --- |  | Thê Tài | Mão-Mộc |  | O | Phụ Mẫu | Mùi-Thổ | Thanh Long | - - |
-    | --- |  | Quan Quỷ | Tị-Hỏa | Huynh-Thân |  | Huynh Đệ | Dậu-Kim | Huyền Vũ | --- |
-    | - - | Thế | Phụ Mẫu | Mùi-Thổ |  | X | Tử Tôn | Hợi-Thủy | Bạch Hổ | --- |
-    | - - |  | Thê Tài | Mão-Mộc |  |  | Thê Tài | Mão-Mộc | Đằng Xà | - - |
-    | - - |  | Quan Quỷ | Tị-Hỏa |  |  | Quan Quỷ | Tị-Hỏa | Câu Trần | - - |
-    | - - | Ứng | Phụ Mẫu | Mùi-Thổ | Tử-Tý |  | Phụ Mẫu | Mùi-Thổ | Chu Tước | - - |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-### Ví dụ case1 vol01 ch11: Ngày Giáp Thìn tháng Mùi (Tuần không: Dần Mão)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Anh ta nói một đống thuật ngữ chuyên nghiệp tôi chẳng hiểu gì cả, dường như
-  - **Dã Hạc**: "Dương hào động biến Mã tinh, xe đã bị trộm mang đi nơi khác, lại bị công an...
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | Vị trí | Lục Thân | Can Chi | Phục thần | Lục Thân | Can Chi | Lục Thú | Hào |
-    |---|---|---|---|---|---|---|---|---|
-    | --- |  | Huynh Đệ | Tuất-Thổ |  | Huynh Đệ | Tuất-Thổ | Huyền Vũ | --- |
-    | --- | Thế | Tử Tôn | Thân-Kim | Tài-Tỵ | Tử Tôn | Thân-Kim | Bạch Hổ | --- |
-    | --- |  | Phụ Mẫu | Ngọ-Hỏa |  | Phụ Mẫu | Ngọ-Hỏa | Đằng Xà | --- |
-    | - - |  | Huynh Đệ | Sửu-Thổ |  | Phụ Mẫu | Ngọ-Hỏa | Câu Trần | - - |
-    | --- | Ứng | Quan Quỷ | Mão-Mộc |  | Huynh Đệ | Thìn-Thổ | Chu Tước | --- |
-    | O |  | Phụ Mẫu | Tị-Hỏa |  | Quan Quỷ | Dần-Mộc | Thanh Long | - - |
-  - **Dụng thần**: "Bỏ hưu tù mà dụng vượng tướng, bỏ hào tĩnh mà dụng...
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
-
-### Ví dụ case2 vol01 ch11: Ngày Tân Mão tháng Sửu (Tuần không: Ngọ Mùi) (trích từ «...
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Ngọ hỏa Phụ động khắc Tử, tuy có chế phục, nhưng ngại Quỷ biến Tử tôn, cần đề...
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    **BẤT THUẦN CẤN** | **ĐỊA PHONG THĂNG**
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-### Ví dụ case3 vol01 ch11: Ngày Tân Dậu tháng Mùi (Tuần không: Tý Sửu)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Quả có một vị xã đệ, bị bệnh điên cuồng, cho nên mới hỏi lại có...
-  - **Dã Hạc**: Huynh đệ tuy có, nhưng tất không được lợi.
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | T/U | Lục Thân | Can Chi | Phục thần |  | Lục Thân | Can Chi | Lục Thú | Hào |
-    |---|---|---|---|---|---|---|---|---|---|
-    | - - | Ứng | Huynh Đệ | Tý-Thủy |  |  | Quan Quỷ | Mùi-Thổ | Đằng Xà | - - |
-    | --- |  | Quan Quỷ | Tuất-Thổ |  |  | Phụ Mẫu | Dậu-Kim | Câu Trần | --- |
-    | - - |  | Phụ Mẫu | Thân-Kim |  | X | Huynh Đệ | Hợi-Thủy | Chu Tước | --- |
-    | --- | Thế | Huynh Đệ | Hợi-Thủy | Tài-Ngọ |  | Huynh Đệ | Hợi-Thủy | Thanh Long | --- |
-    | - - |  | Quan Quỷ | Sửu-Thổ |  |  | Quan Quỷ | Sửu-Thổ | Huyền Vũ | - - |
-    | --- |  | Tử Tôn | Mão-Mộc |  |  | Tử Tôn | Mão-Mộc | Bạch Hổ | --- |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-### Ví dụ case4 vol01 ch11: Canh Dần tháng Mão (Tuần không: Ngọ Mùi) (trích từ « Tăng...
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Trong quẻ Phụ Mẫu lưỡng hiện, lấy hào động Tuất thổ làm Dụng thần, xuân xem hưu tù,...
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | T/U | Lục Thân | Can Chi | Phục thần | Lục Thân | Can Chi | Lục Thú | Hào |
-    |---|---|---|---|---|---|---|---|---|
-    | - - |  | Tử Tôn | Tý-Thủy |  | Huynh Đệ | Dậu-Kim | Đằng Xà | - - |
-    | --- O |  | Phụ Mẫu | Tuất-Thổ |  | Tử Tôn | Hợi-Thủy | Câu Trần | - - |
-    | - - | Thế | Huynh Đệ | Thân-Kim |  | Phụ Mẫu | Sửu-Thổ | Chu Tước | - - |
-    | --- |  | Huynh Đệ | Thân-Kim |  | Huynh Đệ | Thân-Kim | Thanh Long | --- |
-    | - - |  | Quan Quỷ | Ngọ-Hỏa | Tài-Mão | Quan Quỷ | Ngọ-Hỏa | Huyền Vũ | - - |
-    | - - | Ứng | Phụ Mẫu | Thìn-Thổ |  | Phụ Mẫu | Thìn-Thổ | Bạch Hổ | - - |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-### Ví dụ case5 vol01 ch11: Ngày Đinh Mão tháng Thân (Tuần không: Tuất Hợi)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | ĐỊA HỎA MINH DI |  |  |  | ĐỊA THIÊN THÁI |  |  |
-    |---|---|---|---|---|---|---|
-    | (Khôn) Mộc du hồn |  |  |  | (Khôn) Thổ lục hợp |  |  |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-### Ví dụ case6 vol01 ch11: Mậu Tý tháng Mão (Tuần không: Ngọ Mùi)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Cụ thể như thế nào
-  - **Dã Hạc**: Có công danh khác. Trong quẻ Dậu Quan lâm phá, tức chức quan hiện nay phá mà vô...
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | T/U | Lục Thân | Can Chi | Phục thần | Lục Thân | Can Chi | Lục Thú | Hào |
-    |---|---|---|---|---|---|---|---|---|
-    | - - |  | Thê Tài | Mùi-Thổ |  | Phụ Mẫu | Tý-Thủy | Chu Tước | - - |
-    | --- |  | Quan Quỷ | Dậu-Kim |  | Thê Tài | Tuất-Thổ | Thanh Long | --- |
-    | --- | Thế | Phụ Mẫu | Hợi-Thủy | Tử-Ngọ | O Quan Quỷ | Thân-Kim | Huyền Vũ | - - |
-    | --- |  | Quan Quỷ | Dậu-Kim |  | Quan Quỷ | Dậu-Kim | Bạch Hổ | --- |
-    | --- |  | Phụ Mẫu | Hợi-Thủy | Huynh-Dần |  | Phụ Mẫu | Hợi-Thủy | Đằng Xà | --- |
-    | - - | Ứng | Thê Tài | Sửu-Thổ |  | Thê Tài | Sửu-Thổ | Câu Trần | - - |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
-
-### Ví dụ case7 vol01 ch11: Tháng Tị nhâm Ngọ Nhật (tuần không: Thân Dậu)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Ta có quan hệ ở bên trong, khả năng được là khá lớn
-  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | T/U | Lục Thân | Can Chi | Phục thần | Lục Thú | Can Chi | Lục Thú | Hào |
-    |---|---|---|---|---|---|---|---|---|
-    | --- | Ứng | Huynh Đệ | Mão-Mộc |  | Huynh Đệ | Mão-Mộc | Bạch Hổ | --- |
-    | --- |  | Tử Tôn | Tị-Hỏa |  | Tử Tôn | Tị-Hỏa | Đằng Xà | --- |
-    | - - |  | Thê Tài | Mùi-Thổ |  | Thê Tài | Mùi-Thổ | Câu Trần | - - |
-    | - - | Thế | Thê Tài | Thìn-Thổ | Quan-Quỷ | Thê Tài | Thìn-Thổ | Chu Tước | - - |
-    | - - |  | Huynh Đệ | Dần-Mộc |  | Huynh Đệ | Dần-Mộc | Thanh Long | - - |
-    | --- |  | Phụ Mẫu | Tý-Thủy |  | Phụ Mẫu | Tý-Thủy | Huyền Vũ | --- |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
-
-### Ví dụ case8 vol01 ch11: Ngày Nhâm Ngọ tháng Thân (Tuần không: Thân Dậu)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Hào Quan Thân kim tuy tại Nguyệt lệnh nhưng gặp không, sao thể nào sinh Thế?
-  - **Dã Hạc**: "Ở phương diện cát hung, Nhật Nguyệt là thật vì sao lại không? Chúng ta đều sinh hoạt...
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | Từ | Lục Thân | Can Chi | Phục thần | Lục Thú | Can Chi | Lục Thân | Hào |
-    |---|---|---|---|---|---|---|---|---|
-    | --- |  | Huynh Đệ | Mão-Mộc |  | Huynh Đệ | Mão-Mộc | --- |
-    | --- |  | Tử Tôn | Tỵ-Hỏa |  | Tử Tôn | Tỵ-Hỏa | --- |
-    | - - | Ứng | Thê Tài | Mùi-Thổ |  | Thê Tài | Mùi-Thổ | - - |
-    | --- |  | Thê Tài | Thìn-Thổ | Quan-Quỷ | Thê Tài | Thìn-Thổ | --- |
-    | --- |  | Huynh Đệ | Dần-Mộc |  | Huynh Đệ | Dần-Mộc | --- |
-    | --- | Thế | Phụ Mẫu | Tý-Thủy |  | Phụ Mẫu | Tý-Thủy | --- |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
-
-### Ví dụ case9 vol01 ch11: Ngày Bính Thìn tháng Thìn (Tuần không: Tý Sửu) (trích từ «...
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Tài phục mà không, hoàn toàn không có gì. Sau vẫn đào, đào được một cái vạc vỡ,...
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | HỎA TRẠCH KHUÊ | SƠN PHONG CỔ |
-    |---|---|
-    | Ly Cấn | Tốn Chấn Mộc |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
-
 
 
 ### 📚 Các ca ví dụ thực tế nghiệm chứng (4 ca)
@@ -2935,7 +2715,7 @@
 ### Ví dụ case1 vol01 ch12: Mậu Dần tháng Dậu (Tuần không: Thân Dậu)
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Bói
   - **Dã Hạc**: Tử tôn phát động, không phải do cái giếng này.
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -2955,7 +2735,7 @@
 ### Ví dụ case2 vol01 ch12: Ngày Kỷ Hợi tháng Tuất (Tuần không: Thìn Tị) (trích từ «...
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Bói
   - **Dã Hạc**: Chính là chỗ này. Nhanh đổi hướng chảy về hướng đông. Sau đào cái mương thấy rất nhiều...
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -5160,12 +4940,14 @@
 
 
 
+
+
 ### 📚 Các ca ví dụ thực tế nghiệm chứng (2 ca)
 
 ### Ví dụ case1 vol01 ch13: Ngày Kỷ Mão tháng Mão (Tuần không: Thân Dậu)
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Như lưỡng khắc nhất sinh
   - **Dã Hạc**: Huynh đệ Sửu thổ làm Dụng thần, Nhật Nguyệt khắc, hiện rõ đại tội khó thoát, may mắn...
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -5185,7 +4967,7 @@
 ### Ví dụ case2 vol01 ch13: Ngày Kỷ Mão tháng Thân (tuần không: Thân Dậu)
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Tổ hợp Động biến ước thúc
   - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -5921,490 +5703,6 @@
 
 
 
-### 📚 Các ca ví dụ thực tế nghiệm chứng (18 ca)
-
-### Ví dụ 10 vol01 ch15: Ngày Mậu Tý (Tuần không: Ngọ Mùi)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Tử tôn Tý thủy hóa tuyệt biến thành Quỷ, đêm hôm nay chết.
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | T/T | Lục Thân | Can Chi | Phục | Lục Thân | Can Chi | Lục Thú | Hào |
-    |---|---|---|---|---|---|---|---|---|
-    | --- |  | Thê Tài | Dần-Mộc |  | Thê Tài | Mão-Mộc | Chu Tước | --- |
-    | X | Thế | Tử Tôn | Tý-Thủy | Huynh-Đệ Thân-Kim | Quan Quỷ | Tị-Hỏa | Thanh Long | --- |
-    | - - |  | Phụ Mẫu | Tuất-Thổ |  | Phụ Mẫu | Mùi-Thổ | Huyền Vũ | - - |
-    | - - |  | Thê Tài | Mão-Mộc |  | Thê Tài | Mão-Mộc | Bạch Hổ | - - |
-    | - - | Ứng | Quan Quỷ | Tị-Hỏa |  | Quan Quỷ | Tị-Hỏa | Đằng Xà | - - |
-    | - - |  | Phụ Mẫu | Mùi-Thổ |  | Phụ Mẫu | Mùi-Thổ | Câu Trần | - - |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-### Ví dụ case10 vol01 ch15: Ngày Mậu Thân tháng Ngọ (Tuần không: Dần Mão)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | TƯ | Lục Thân | Can Chi | Phục | Lục Thân | Can Chi | Lục Thú | Hào |
-    |---|---|---|---|---|---|---|---|---|
-    | - - | Thế | Phụ Mẫu | Mùi-Thổ |  | Phụ Mẫu | Mùi-Thổ | Chu Tước | - - |
-    | --- |  | Huynh Đệ | Dậu-Kim |  | Huynh Đệ | Dậu-Kim | Thanh Long | --- |
-    | --- |  | Tử Tôn | Hợi-Thủy |  | Tử Tôn | Hợi-Thủy | Huyền Vũ | --- |
-    | X | Ứng | Phụ Mẫu | Sửu-Thổ |  | Phụ Mẫu | Thìn-Thổ | Bạch Hổ | --- |
-    | --- |  | Thê Tài | Mão-Mộc |  | Thê Tài | Dần-Mộc | Đằng Xà | --- |
-    | --- |  | Quan Quỷ | Tị-Hỏa |  | Tử Tôn | Tý-Thủy | Câu Trần | --- |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-### Ví dụ case11 vol01 ch15: Ngày Canh Tý tháng Ngọ (Tuần không: Thìn Tị)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | T/U | Lục Thân | Can Chi | Phục | Lục Thân | Can Chi | Lục Thú | Hào |
-    |---|---|---|---|---|---|---|---|---|
-    | - - | Thế | Tử Tôn | Dậu-Kim |  | Tử Tôn | Dậu-Kim | Đằng Xà | - - |
-    | - - |  | Thê Tài | Hợi-Thủy |  | Thê Tài | Hợi-Thủy | Câu Trần | - - |
-    | - - |  | Huynh Đệ | Sửu-Thổ |  | Huynh Đệ | Sửu-Thổ | Chu Tước | - - |
-    | X | Ứng | Quan Quỷ | Mão-Mộc |  | Thê Tài | Hợi-Thủy | Thanh Long | --- |
-    | - - |  | Phụ Mẫu | Tị-Hỏa |  | Huynh Đệ | Sửu-Thổ | Huyền Vũ | - - |
-    | X |  | Huynh Đệ | Mùi-Thổ |  | Quan Quỷ | Mão-Mộc | Bạch Hổ | --- |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-### Ví dụ case12 vol01 ch15: Ngày Ất Mão tháng Tuất (Tuần không: Tý Sửu)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Người xem là thứ dân chợt nghe giá đến, đem người nghênh đón, được thụ tước tướng quân.
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | T/Ư | Lục Thân | Can Chi | Phục | Lục Thân | Can Chi | Lục Thú | Hào |
-    |---|---|---|---|---|---|---|---|---|
-    | - - | Ứng | Thê Tài | Tý-Thủy |  | Tử Tôn | Dậu-Kim | Huyền Vũ | - - |
-    | O |  | Huynh Đệ | Tuất-Thổ |  | Thê Tài | Hợi-Thủy | Bạch Hổ | - - |
-    | - - |  | Tử Tôn | Thân-Kim |  | Huynh Đệ | Sửu-Thổ | Đằng Xà | - - |
-    | - - | Thế | Quan Quỷ | Mão-Mộc |  | Quan Quỷ | Mão-Mộc | Câu Trần | - - |
-    | - - |  | Phụ Mẫu | Tỵ-Hỏa |  | Phụ Mẫu | Tỵ-Hỏa | Chu Tước | - - |
-    | - - |  | Huynh Đệ | Mùi-Thổ |  | Huynh Đệ | Mùi-Thổ | Thanh Long | - - |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
-
-### Ví dụ case13 vol01 ch15: Ngày Quý Hợi tháng Tỵ (Tuần không: Tý Sửu)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | T/Ư | Lục Thân | Can Chi | Phục | Lục Thân | Can Chi | Lục Thú | Hào |
-    |---|---|---|---|---|---|---|---|---|
-    | - - | Ứng | Thê Tài | Mùi-Thổ |  | Thê Tài | Tuất-Thổ | Bạch Hổ | - - |
-    | O |  | Quan Quỷ | Dậu-Kim |  | Quan Quỷ | Thân-Kim | Đằng Xà | - - |
-    | --- |  | Phụ Mẫu | Hợi-Thủy | Tử-Ngọ | Tử Tôn | Ngọ-Hỏa | Câu Trần | --- |
-    | - - | Thế | Thê Tài | Thìn-Thổ |  | Thê Tài | Thìn-Thổ | Chu Tước | - - |
-    | - - |  | Huynh Đệ | Dần-Mộc |  | Huynh Đệ | Dần-Mộc | Thanh Long | - - |
-    | --- |  | Phụ Mẫu | Tý-Thủy |  | Phụ Mẫu | Tý-Thủy | Huyền Vũ | --- |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-### Ví dụ case14 vol01 ch15: Ngày Ất Mùi tháng Dần (Tuần không: Thìn Tị)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Trước mắt rất nguy.
-  - **Dã Hạc**: Dậu kim Tử tôn, tuy là mùa xuân hưu tù, được Nhật thần sinh phù, hào hai Tị...
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | Thế/Ứng | Lục Thân | Can Chi | Phục thần | Lục Thân | Can Chi | Lục Thú | Hào |
-    |---|---|---|---|---|---|---|---|---|
-    | - - | Thế | Tử Tôn | Dậu-Kim |  | Tử Tôn | Dậu-Kim | Huyền Vũ | - - |
-    | - - |  | Thê Tài | Hợi-Thủy |  | Thê Tài | Hợi-Thủy | Bạch Hổ | - - |
-    | - - |  | Huynh Đệ | Sửu-Thổ |  | Huynh Đệ | Sửu-Thổ | Đằng Xà | - - |
-    | - - | Ứng | Quan Quỷ | Mão-Mộc |  | Phụ Mẫu | Ngọ-Hỏa | Câu Trần | - - |
-    | X |  | Phụ Mẫu | Tị-Hỏa |  | Huynh Đệ | Thìn-Thổ | Chu Tước | --- |
-    | - - |  | Huynh Đệ | Mùi-Thổ |  | Quan Quỷ | Dần-Mộc | Thanh Long | - - |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-### Ví dụ case15 vol01 ch15: Ngày Đinh Tị tháng Thân (Tuần không: Tý Sửu)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | T/U | Lục Thân | Can Chi | Phục thần | Lục Thân | Can Chi | Lục Thú | Hào |
-    |---|---|---|---|---|---|---|---|---|
-    | - - | Ứng | Thê Tài | Tý-Thủy |  | Thê Tài | Tý-Thủy | Thanh Long | - - |
-    | --- |  | Huynh Đệ | Tuất-Thổ |  | Huynh Đệ | Tuất-Thổ | Huyền Vũ | --- |
-    | - - |  | Tử Tôn | Thân-Kim |  | Tử Tôn | Thân-Kim | Bạch Hổ | - - |
-    | - - | Thế | Quan Quỷ | Mão-Mộc |  | Huynh Đệ | Thìn-Thổ | Đằng Xà | - - |
-    | - - |  | Phụ Mẫu | Tị-Hỏa |  | Quan Quỷ | Dần-Mộc | Câu Trần | - - |
-    | X |  | Huynh Đệ | Mùi-Thổ |  | Thê Tài | Tý-Thủy | Chu Tước | --- |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-### Ví dụ case16 vol01 ch15: Ngày Kỷ Mão tháng Mão (Tuần không: Thân Dậu)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | T/V | Lục Thân | Can Chi | Phục | Lục Thân | Can Chi | Lục Thú | Hào |
-    |---|---|---|---|---|---|---|---|---|
-    | - - | Thế | Huynh Đệ | Tý-Thủy |  | Phụ Mẫu | Dậu-Kim | Câu Trần | - - |
-    | O |  | Quan Quỷ | Tuất-Thổ |  | Huynh Đệ | Hợi-Thủy | Chu Tước | - - |
-    | - - |  | Phụ Mẫu | Thân-Kim |  | Quan Quỷ | Sửu-Thổ | Thanh Long | - - |
-    | - - | Ứng | Thê Tài | Ngọ-Hỏa |  | Thê Tài | Ngọ-Hỏa | Huyền Vũ | - - |
-    | --- |  | Quan Quỷ | Thìn-Thổ |  | Quan Quỷ | Thìn-Thổ | Bạch Hổ | --- |
-    | - - |  | Tử Tôn | Dần-Mộc |  | Tử Tôn | Dần-Mộc | Đằng Xà | - - |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-### Ví dụ case17 vol01 ch15: Ngày Đinh Dậu tháng Thân (Tuần không: Thìn Tị)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | T/Ư | Lục Thân | Can Chi | Phục | Lục Thân | Can Chi | Lục Thú | Hào |
-    |---|---|---|---|---|---|---|---|---|
-    | - - |  | Huynh Đệ | Dậu-Kim |  | Phụ Mẫu | Tuất-Thổ | Thanh Long | - - |
-    | - - | Thế | Tử Tôn | Hợi-Thủy |  | Huynh Đệ | Thân-Kim | Huyền Vũ | - - |
-    | - - X |  | Phụ Mẫu | Sửu-Thổ |  | Quan Quỷ | Ngọ-Hỏa | Bạch Hổ | --- |
-    | --- |  | Huynh Đệ | Thân-Kim |  | Tử Tôn | Hợi-Thủy | Đằng Xà | --- |
-    | - - | Ứng | Quan Quỷ | Ngọ-Hỏa | Tài-Mão | Phụ Mẫu | Sửu-Thổ | Câu Trần | - - |
-    | - - X |  | Phụ Mẫu | Thìn-Thổ |  | Thê Tài | Mão-Mộc | Chu Tước | --- |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-### Ví dụ case18 vol01 ch15: Ngày Quý Mão tháng Thìn (Tuần không: Thìn Tị)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | Ký hiệu | T/Ư | Lục Thân | Can Chi | Phục thần | Lục Thú |
-    |---|---|---|---|---|---|---|
-    | 6 | - - | Thế | Huynh Đệ | Tý-Thủy |  | Bạch Hổ |
-    | 5 | --- |  | Quan Quỷ | Tuất-Thổ |  | Đằng Xà |
-    | 4 | - - |  | Phụ Mẫu | Thân-Kim |  | Câu Trần |
-    | 3 | - - | Ứng | Thê Tài | Ngọ-Hỏa |  | Chu Tước |
-    | 2 | --- |  | Quan Quỷ | Thìn-Thổ |  | Thanh Long |
-    | 1 | X |  | Tử Tôn | Dần-Mộc |  | Huyền Vũ |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
-
-### Ví dụ case1 vol01 ch15: Ngày Đinh Hợi tháng Thìn (tuần không: Ngọ Mùi)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Quẻ nội Hợi Mão Mùi hợp thành Tài cục sinh hào Thế Quan quỷ Tị hỏa. Hào Thế...
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    # TRẠCH ĐỊA TỤY | TRẠCH HỎA CÁCH
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-### Ví dụ case2 vol01 ch15: Ngày Ất Mùi tháng Thìn (Tuần không: Thìn Tị)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Sửu thổ Quan tĩnh trì Thế, hóa xuất Ngọ hỏa, Tài vượng sinh Quan. Năm Mão xem quẻ,...
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | T/U | Lục Thân | Can Chi | Phục | → | Lục Thân | Can Chi | Lục Thú | Hào |
-    |---|---|---|---|---|---|---|---|---|---|
-    | - - |  | Phụ Mẫu | Dậu-Kim |  |  | Quan Quỷ | Tuất-Thổ | Huyền Vũ | - - |
-    | - - |  | Huynh Đệ | Hợi-Thủy |  |  | Phụ Mẫu | Thân-Kim | Bạch Hổ | - - |
-    | X | Thế | Quan Quỷ | Sửu-Thổ |  |  | Thê Tài | Ngọ-Hỏa | Đằng Xà | --- |
-    | --- |  | Huynh Đệ | Hợi-Thủy | Tài-Ngọ |  | Huynh Đệ | Hợi-Thủy | Câu Trần | --- |
-    | - - |  | Quan Quỷ | Sửu-Thổ |  |  | Quan Quỷ | Sửu-Thổ | Chu Tước | - - |
-    | --- | Ứng | Tử Tôn | Mão-Mộc |  |  | Tử Tôn | Mão-Mộc | Thanh Long | --- |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-### Ví dụ case3 vol01 ch15: Ngày Ất Sửu tháng Dậu (Tuần không: Tuất Hợi)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Mùi Phụ hóa tiến thần, Tị hỏa Quan động mà sinh Thế, sẽ đỗ. Ngày Dần yết bảng,...
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | TƯ | Lục Thân | Can Chi | Phục |  | Lục Thân | Can Chi | Lục Thú | Hào |
-    |---|---|---|---|---|---|---|---|---|---|
-    | - - | Thế | Phụ Mẫu | Mùi-Thổ |  | X | Phụ Mẫu | Tuất-Thổ | Huyền Vũ | --- |
-    | --- |  | Huynh Đệ | Dậu-Kim |  |  | Huynh Đệ | Thân-Kim | Bạch Hổ | --- |
-    | --- |  | Tử Tôn | Hợi-Thủy |  |  | Quan Quỷ | Ngọ-Hỏa | Đằng Xà | --- |
-    | - - | Ứng | Phụ Mẫu | Sửu-Thổ |  |  | Quan Quỷ | Ngọ-Hỏa | Câu Trần | - - |
-    | --- |  | Thê Tài | Mão-Mộc |  |  | Phụ Mẫu | Thìn-Thổ | Chu Tước | --- |
-    | --- |  | Quan Quỷ | Tị-Hỏa |  | O | Thê Tài | Dần-Mộc | Thanh Long | - - |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
-
-### Ví dụ case4 vol01 ch15: Ngày Ngọ tháng Sửu xem quẻ
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Quẻ chính: Phong Lôi Ích | Vị trí | Lục Thân | Can Chi | Phục thần | Lục Thú | Quẻ biến: Phong Hỏa Gia Nhân | Lục Thân | Can Chi |
-    |---|---|---|---|---|---|---|---|---|
-    | --- | Ứng | Huynh Đệ | Mão-Mộc |  | Thanh Long | --- | Huynh Đệ | Mão-Mộc |
-    | --- |  | Tử Tôn | Tị-Hỏa |  | Huyền Vũ | --- | Tử Tôn | Tị-Hỏa |
-    | - - |  | Thê Tài | Mùi-Thổ |  | Bạch Hổ | - - | Thê Tài | Mùi-Thổ |
-    | X | Thế | Thê Tài | Thìn-Thổ | Quan-Dậu | Đằng Xà | --- | Phụ Mẫu | Hợi-Thủy |
-    | - - |  | Huynh Đệ | Dần-Mộc |  | Câu Trần | - - | Thê Tài | Sửu-Thổ |
-    | --- |  | Phụ Mẫu | Tý-Thủy |  | Chu Tước | --- | Huynh Đệ | Mão-Mộc |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-### Ví dụ case5 vol01 ch15: Ngày Mậu Tý tháng Sửu (Tuần không: Ngọ Mùi)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Quẻ này Dần mộc phát động hóa tiến thần, khắc Thế khắc Tài, không những mất tiền còn...
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | Tư | Lục Thân | Can Chi | Phục | Lục Thân | Can Chi | Lục Thú | Hào |
-    |---|---|---|---|---|---|---|---|---|
-    | --- | Ứng | Huynh Đệ | Mão-Mộc |  | Huynh Đệ | Mão-Mộc | Chu Tước | --- |
-    | --- |  | Tử Tôn | Tị-Hỏa |  | Tử Tôn | Tị-Hỏa | Thanh Long | --- |
-    | - - |  | Thê Tài | Mùi-Thổ |  | Thê Tài | Mùi-Thổ | Huyền Vũ | - - |
-    | - - | Thế | Thê Tài | Thìn-Thổ | Quan-Đới | Thê Tài | Sửu-Thổ | Bạch Hổ | - - |
-    | X |  | Huynh Đệ | Dần-Mộc |  | Huynh Đệ | Mão-Mộc | Đằng Xà | --- |
-    | --- |  | Phụ Mẫu | Tý-Thủy |  | Tử Tôn | Tị-Hỏa | Câu Trần | --- |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-### Ví dụ case6 vol01 ch15: Ngày Nhâm Tý tháng Thân (Tuần không: Dần Mão)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    ## PHONG HỎA GIA NHÂN | TRẠCH HỎA CÁCH
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
-
-### Ví dụ case7 vol01 ch15: Ngày Quý Mùi tháng Tuất (Tuần không: Thân Dậu)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Bệnh lâu gặp xung chớ trị, lại là hào Phụ trì Thế, diệu dược khó cứu. Tỵ hóa...
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | T/U | Lục Thân | Can Chi | Phục | Lục Thân | Can Chi | Lục Thú | Hào |
-    |---|---|---|---|---|---|---|---|---|
-    | O | Thế | Phụ Mẫu | Tuất-Thổ |  | Phụ Mẫu | Mùi-Thổ | Bạch Hổ | - - |
-    | --- |  | Huynh Đệ | Thân-Kim |  | Huynh Đệ | Dậu-Kim | Đằng Xà | --- |
-    | --- |  | Quan Quỷ | Ngọ-Hỏa |  | Tử Tôn | Hợi-Thủy | Câu Trần | --- |
-    | --- | Ứng | Phụ Mẫu | Thìn-Thổ |  | Phụ Mẫu | Thìn-Thổ | Chu Tước | --- |
-    | --- |  | Thê Tài | Dần-Mộc |  | Thê Tài | Dần-Mộc | Thanh Long | --- |
-    | --- |  | Tử Tôn | Tý-Thủy |  | Tử Tôn | Tý-Thủy | Huyền Vũ | --- |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-### Ví dụ case9 vol01 ch15: Ngày Ất Hợi tháng Mùi (Tuần Không: Thân Dậu)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Còn có khả năng nào không?
-  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    **PHONG THIÊN TIỂU SÚC** | **THIÊN HỎA ĐỒNG NHÂN**
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-
-
-### 📚 Các ca ví dụ thực tế nghiệm chứng (8 ca)
-
-### Ví dụ case1 vol01 ch16: Ngày Ất Mão tháng Thìn (Tuần không: Tý Sửu)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Thế tài Sửu thổ trì Thế gặp tuần không, tuy có Tị hỏa sinh nhưng Tị hỏa lại...
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | TƯ | Lục Thân | Can Chi | Phục thần | Lục Thân | Can Chi | Lục Thú | Hào |
-    |---|---|---|---|---|---|---|---|---|
-    | --- |  | Huynh Đệ | Mão-Mộc |  | Huynh Đệ | Dần-Mộc | Huyền Vũ | --- |
-    | O | Ứng | Tử Tôn | Tỵ-Hỏa |  | Phụ Mẫu | Tý-Thủy | Bạch Hổ | - - |
-    | - - |  | Thê Tài | Mùi-Thổ |  | Thê Tài | Tuất-Thổ | Đằng Xà | - - |
-    | --- |  | Phụ Mẫu | Hợi-Thủy | Quan-Dậu | Phụ Mẫu | Hợi-Thủy | Câu Trần | --- |
-    | - - | Thế | Thê Tài | Sửu-Thổ |  | Thê Tài | Sửu-Thổ | Chu Tước | - - |
-    | --- |  | Huynh Đệ | Mão-Mộc |  | Huynh Đệ | Mão-Mộc | Thanh Long | --- |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
-
-### Ví dụ case2 vol01 ch16: Ngày Nhâm Tý tháng Mùi (Tuần không: Dần Mão)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Quẻ chính | Quẻ biến |
-    |---|---|
-    | PHONG THIÊN TIỂU SÚC | PHONG TRẠCH TRUNG PHU |
-    | Tốn | Cấn |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-### Ví dụ case3 vol01 ch16: Ngày Bính Dần tháng Ngọ (Tuần không: Tuất Hợi)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | T/U | Lục Thân | Can Chi | Phục thần | Động | Lục Thân | Can Chi | Lục Thú | Hào |
-    |---|---|---|---|---|---|---|---|---|---|
-    | --- |  | Quan Quỷ | Tị-Hỏa |  |  | Quan Quỷ | Tị-Hỏa | Thanh Long | --- |
-    | - - |  | Phụ Mẫu | Mùi-Thổ |  |  | Phụ Mẫu | Mùi-Thổ | Huyền Vũ | - - |
-    | --- | Thế | Huynh Đệ | Dậu-Kim |  |  | Huynh Đệ | Dậu-Kim | Bạch Hổ | --- |
-    | - - |  | Thê Tài | Mão-Mộc |  |  | Phụ Mẫu | Thìn-Thổ | Đằng Xà | - - |
-    | - - |  | Quan Quỷ | Tị-Hỏa |  |  | Thê Tài | Dần-Mộc | Câu Trần | - - |
-    | X | Ứng | Phụ Mẫu | Mùi-Thổ | Tử-Tý | X | Tử Tôn | Tý-Thủy | Chu Tước | --- |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-### Ví dụ case4 vol01 ch16: Ngày Quý Mão tháng Ngọ (Tuần không: Thìn Tị) (trích từ «...
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: 'Đã biết Tý thủy tiếp tục tương sinh, sách cổ nói: Kị thần và Nguyên thần...
-  - **Dã Hạc**: Dần mộc Quan tinh trì Thế, bị Thân kim động khắc, tháng bảy năm nay tất có hung...
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào | Từ | Lục Thân | Can Chi | Phục thần | Lục Thân | Can Chi | Lục Thú | Hào |
-    |---|---|---|---|---|---|---|---|---|
-    | --- | Thế | Quan Quỷ | Dần-Mộc |  | Quan Quỷ | Mão-Mộc | Bạch Hổ | --- |
-    | X |  | Thê Tài | Tý-Thủy |  | Phụ Mẫu | Tị-Hỏa | Đằng Xà | --- |
-    | - - |  | Huynh Đệ | Tuất-Thổ |  | Huynh Đệ | Mùi-Thổ | Câu Trần | - - |
-    | O | Ứng | Tử Tôn | Thân-Kim |  | Quan Quỷ | Mão-Mộc | Chu Tước | - - |
-    | - - |  | Phụ Mẫu | Ngọ-Hỏa |  | Phụ Mẫu | Tị-Hỏa | Thanh Long | - - |
-    | - - |  | Huynh Đệ | Thìn-Thổ |  | Huynh Đệ | Mùi-Thổ | Huyền Vũ | - - |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-### Ví dụ case5 vol01 ch16: Ngày Canh Thân tháng Mão (Tuần không: Tỵ Sửu)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Đúng a, cực kì bực bội, làm sao Ngài có thể nhìn ra được?
-  - **Dã Hạc**: "Trong quẻ Phụ Mẫu Dần mộc bị Nhật xung mà ám động, việc mua nhà đang diễn ra....
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    **HỎA THỦY VỊ TẾ** | **HỎA ĐỊA TẤN**
-    ---|---
-    **HỎA LY** | **HỎA CÀN (DU HỒN)**
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-### Ví dụ case6 vol01 ch16: Canh Dần tháng Ngọ (Tuần không: Ngọ Mùi)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Sao vậy?
-  - **Dã Hạc**: Tài là dưỡng Mệnh chi nguyên, lại là triều đình chi lộc, nay Tài lâm tuyệt địa, là...
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | SƠN THIÊN ĐẠI SÚC |  |  |  |  | PHONG TRẠCH TRUNG PHU |  |  |  |
-    |---|---|---|---|---|---|---|---|---|
-    | Hỗ Cấn |  |  |  |  | Hỗ Cấn Đoài |  |  |  |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
-
-### Ví dụ case7 vol01 ch16: Ngày Kỷ Dậu tháng Tỵ (Tuần không: Dần Mão)
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Là đang có hai việc làm ăn, là hỏi tổng thể lợi nhuận, có thể nhìn...
-  - **Dã Hạc**: "Thê Tài Sửu thổ động hóa xuất Tử tôn Ngọ hỏa hồi đầu sinh, là điềm tốt lấy...
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    | Hào chính | T/Ư | Lục Thân | Can Chi | Phục thần | Động | Lục Thân (quẻ biến) | Can Chi (quẻ biến) | Lục Thú | Hào biến |
-    |---|---|---|---|---|---|---|---|---|---|
-    | - - |  | Quan Quỷ | Dậu-Kim |  |  | Thê Tài | Tuất-Thổ | Câu Trần | - - |
-    | - - |  | Phụ Mẫu | Hợi-Thủy |  |  | Quan Quỷ | Thân-Kim | Chu Tước | - - |
-    | - - | Thế | Thê Tài | Sửu-Thổ | Tử-Ngọ | X | Tử Tôn | Ngọ-Hỏa | Thanh Long | --- |
-    | --- |  | Quan Quỷ | Dậu-Kim |  |  | Quan Quỷ | Dậu-Kim | Huyền Vũ | --- |
-    | --- |  | Phụ Mẫu | Hợi-Thủy | Huynh-Dần |  | Phụ Mẫu | Hợi-Thủy | Bạch Hổ | --- |
-    | - - | Ứng | Thê Tài | Sửu-Thổ |  |  | Thê Tài | Sửu-Thổ | Đằng Xà | - - |
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: PASS
-
-### Ví dụ case8 vol01 ch16: Ngày Bính Dần tháng Mão nha dịch xem quan phủ có được...
-
-- 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
-  - **Dã Hạc**: Quan động hóa tiến thần, thu tới chắc sẽ được. Hào báo tháng Tị được thăng chức. Ứng...
-- ⚙️ **Quẻ lý & Nghiệm chứng**:
-  - **Bảng quẻ**:
-    ## LÔI THỦY GIẢI — Lục hợp | TRẠCH THỦY KHỐN
-  - **Dụng thần**: Dụng thần theo sự việc
-  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
-  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
-  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
-
 
 
 ### 📚 Các ca ví dụ thực tế nghiệm chứng (5 ca)
@@ -6412,7 +5710,7 @@
 ### Ví dụ case1 vol01 ch17: Ngày Tân Mùi tháng Mùi (Tuần không: Tuất Hợi) (trích từ «...
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Mở cửa hàng
   - **Dã Hạc**: Thê tài trì Thế hóa tiến thần, chính là tượng phong thịnh lâu dài, nên chọn ngày Giáp...
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -6432,7 +5730,7 @@
 ### Ví dụ case2 vol01 ch17: Ngày Ất Hợi tháng Thân (Tuần không: Thân Dậu)
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Có thể được thăng chức lên làm chủ quản hay không
   - **Dã Hạc**: Quẻ này hào Phụ mẫu Hợi thủy trì Thế, tháng Thân sinh phù, vẫn vượng thân cũng vượng,...
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -6452,7 +5750,7 @@
 ### Ví dụ case3 vol01 ch17: Ngày Tân Dậu tháng Tý (Tuần không: Tý Sửu)
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Này dùng thuốc có trị được hết bệnh không
   - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -6472,7 +5770,7 @@
 ### Ví dụ case4 vol01 ch17: Ngày Bính Thân tháng Dần (Tuần không: Thìn Tị) (trích từ «...
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Lên chức
   - **Dã Hạc**: Dần mộc Quan tinh trì Thế, lâm Nguyệt kiến là vượng tướng, tuy bị Thân Nhật xung khắc,...
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -6615,12 +5913,14 @@
 
 
 
+
+
 ### 📚 Các ca ví dụ thực tế nghiệm chứng (8 ca)
 
 ### Ví dụ case1 vol01 ch19: Ngày Bính Thân tháng Tị (Tuần không: Thìn Tị) (trích từ «...
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Bệnh
   - **Dã Hạc**: *Thầy thuốc cầm quẻ này hỏi ta:* Bệnh nhân nhiễm bệnh khá nguy tai, ta bảo bệnh nhân...
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -6640,7 +5940,7 @@
 ### Ví dụ case2 vol01 ch19: Ngày Tân Dậu tháng Ngọ (Tuần không: Tý Sửu) (trích từ «...
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Công danh
   - **Dã Hạc**: Người này gần mười một tuổi, bố bảo xem tương lai có công danh hay không?
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -6720,7 +6020,7 @@
 ### Ví dụ case6 vol01 ch19: Ngày Kỷ Sửu tháng Mùi (Tuần không: Ngọ Mùi)
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Thay
   - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -6740,7 +6040,7 @@
 ### Ví dụ case7 vol01 ch19: Ngày Mậu Thìn tháng Thìn (Tuần không: Tuất Hợi)
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Là con gái
   - **Dã Hạc**: "Không ngại gì, việc của mình thì tự mình gieo là tốt nhất", nhưng anh ta kiên quyết...
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -7166,6 +6466,8 @@
 
 
 
+
+
 ### 📚 Các ca ví dụ thực tế nghiệm chứng (5 ca)
 
 ### Ví dụ case1 vol01 ch20: Ngày Tân Sửu tháng Mão (Tuần không: Thìn Tị)
@@ -7244,7 +6546,7 @@
 ### Ví dụ case5 vol01 ch20: Ngày Ất Sửu tháng Thìn (Tuần không: Tuất Hợi)
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Cầu tài
   - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -7263,6 +6565,8 @@
 
 
 ## Chương VIII: Trình tự đoán quẻ hoàn chỉnh
+
+
 
 
 
@@ -7352,6 +6656,8 @@
 
 
 
+
+
 ### 📚 Các ca ví dụ thực tế nghiệm chứng (11 ca)
 
 ### Ví dụ case10 vol01 ch14: Ngày Quý Tị tháng Mùi (Tuần không Ngọ Mùi)
@@ -7397,7 +6703,7 @@
 ### Ví dụ case1 vol01 ch14: Ngày Mậu Thìn tháng Dần (tuần không: Tuất Hợi)
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Em ra ngoài có bình an không
   - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -7417,7 +6723,7 @@
 ### Ví dụ case2 vol01 ch14: Ngày Mậu Tý tháng Sửu (Tuần không Ngọ Mùi)
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Bệnh
   - **Dã Hạc**: Tự xem bệnh lấy Thế làm Dụng thần, hào Thế Hợi Thủy, ngày Tý tỷ hòa, lại được...
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -7430,7 +6736,7 @@
 ### Ví dụ case3 vol01 ch14: Ngày Canh Thìn tháng Sửu (Tuần không: Thân Dậu)
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Bệnh cho con
   - **Dã Hạc**: Tý thủy Tử tôn cùng Nguyệt kiến tác hợp, quẻ không sinh đỡ, nói khắc không nói hợp....
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -7470,7 +6776,7 @@
 ### Ví dụ case5 vol01 ch14: Ngày Đinh Mão tháng Thân (Tuần không Tuất Hợi)
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Xuất hành gặp quý
   - **Dã Hạc**: Quan tinh trì Thế mà không, Hợi Nhật
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -7490,7 +6796,7 @@
 ### Ví dụ case6 vol01 ch14: Ngày Mậu Thìn tháng Ngọ (Tuần không Tuất Hợi)
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Em sắp sinh cát hung thế nào
   - **Dã Hạc**: Hào Huynh Dậu Kim làm Dụng thần, Nguyệt lệnh khắc Nhật sinh phù, không ngại, giờ Mão ngày...
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -7510,7 +6816,7 @@
 ### Ví dụ case7 vol01 ch14: Ngày Bính Dần tháng Mão (Tuần không: Tuất Hợi)
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Thọ của tổ mẫu
   - **Dã Hạc**: Tị hỏa Phụ Mẫu, Nhật Nguyệt sinh phù, hưởng đại thọ. Sau hưởng thọ thêm mười bốn năm.
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -7530,7 +6836,7 @@
 ### Ví dụ case8 vol01 ch14: Ngày Hợi tháng Dậu xem bói
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Bói
   - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -7550,7 +6856,7 @@
 ### Ví dụ case9 vol01 ch14: Ngày Ất Mùi tháng Dậu (Tuần không Thìn Tị)
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Con đi lâu không về
   - **Dã Hạc**: Thế lâm Tử tôn trị Nguyệt, Mùi Nhật sinh phù, tuy là lục xung, nhưng mà con tất...
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -7574,12 +6880,14 @@
 
 
 
+
+
 ### 📚 Các ca ví dụ thực tế nghiệm chứng (11 ca)
 
 ### Ví dụ case10 vol01 ch18: Ngày Kỷ Hợi tháng Mão (Tuần không: Thìn Tị)
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: The client provided feedback on the outcome, including the accidental purchase
+  - **Thân chủ**: Dự định hai ngày nữa bán cổ phiếu có lợi không
   - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -7599,7 +6907,7 @@
 ### Ví dụ case11 vol01 ch18: Ngày Giáp Ngọ tháng Thìn (Tuần không: Thìn Tị)
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: * khi nào sẽ đào được than đá?
+  - **Thân chủ**: * khi nào sẽ đào được than đá
   - **Dã Hạc**: Thê tài Sửu thổ trì Thế, Nhật thần Ngọ hỏa sinh phù, mỏ sẽ có lợi.
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -7619,7 +6927,7 @@
 ### Ví dụ case1 vol01 ch18: Ngày Bính Thìn tháng Ngọ (Tuần không: Tý Sửu) (trích từ «...
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Bản thân người đó
   - **Dã Hạc**: Phụ Mẫu trì Thế lâm Nguyệt kiến, cực vượng, nhưng không nên Tử động tổn thương Quan
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -7652,7 +6960,7 @@
 ### Ví dụ case3 vol01 ch18: Ngày Bính Dần tháng Tý (Tuần không: Tuất Hợi)
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Sự nghiệp lấy hào Quan quỷ làm Dụng thần
   - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -7672,7 +6980,7 @@
 ### Ví dụ case4 vol01 ch18: Ngày Ất Mão tháng Sửu (Tuần không: Tý Sửu) (trích từ «...
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Về bổ nhiệm theo lệ
   - **Dã Hạc**: Tài động sinh Quan, không nên Thế lâm Nguyệt phá, phá mà bị khắc, có Quan không thể...
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -7732,7 +7040,7 @@
 ### Ví dụ case7 vol01 ch18: Ngày Tân Sửu tháng Mão (Tuần không: Thìn Tị) (trích từ «...
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Thân chủ hỏi sự việc thực tế, cầu cát hung.
+  - **Thân chủ**: Trình xin về chi tiêu
   - **Dã Hạc**: Vượng vẫn tuy là sinh Thế, không nên Huynh đệ trì Thế, cấp trên đã quyết thực hiện,...
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:
@@ -7805,12 +7113,745 @@
 ## CHƯ THẦN BÀN GIẢNG NGHĨA
 
 
+
+## Chương I: Nghiên cứu Dịch đều có tâm thành chính xác
+
+
+
+### 📚 Các ca ví dụ thực tế nghiệm chứng (1 ca)
+
+### Ví dụ 1-1 vol01 ch01: Ngày Canh Dần tháng Thìn (tuần không: Ngọ Mùi)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Theo cổ luận, xem giới tính thai nhi, một hào độc phát dương động biến âm...
+  - **Dã Hạc**: Không phải lý luận có vấn đề, mà là Ngài đem lý luận dùng nhầm chỗ, nguyên nhân...
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | TRẠCH ĐỊA TỤY | LÔI ĐỊA DỰ |
+    |---|---|
+    |  |  |
+    | **Tụ Cát** | **Dự Bình** |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+
+## Chương XV: Tổ hợp Động biến
+
+
+
+### 📚 Các ca ví dụ thực tế nghiệm chứng (18 ca)
+
+### Ví dụ 10 vol01 ch15: Ngày Mậu Tý (Tuần không: Ngọ Mùi)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Sinh sản
+  - **Dã Hạc**: Tử tôn Tý thủy hóa tuyệt biến thành Quỷ, đêm hôm nay chết.
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | T/T | Lục Thân | Can Chi | Phục | Lục Thân | Can Chi | Lục Thú | Hào |
+    |---|---|---|---|---|---|---|---|---|
+    | --- |  | Thê Tài | Dần-Mộc |  | Thê Tài | Mão-Mộc | Chu Tước | --- |
+    | X | Thế | Tử Tôn | Tý-Thủy | Huynh-Đệ Thân-Kim | Quan Quỷ | Tị-Hỏa | Thanh Long | --- |
+    | - - |  | Phụ Mẫu | Tuất-Thổ |  | Phụ Mẫu | Mùi-Thổ | Huyền Vũ | - - |
+    | - - |  | Thê Tài | Mão-Mộc |  | Thê Tài | Mão-Mộc | Bạch Hổ | - - |
+    | - - | Ứng | Quan Quỷ | Tị-Hỏa |  | Quan Quỷ | Tị-Hỏa | Đằng Xà | - - |
+    | - - |  | Phụ Mẫu | Mùi-Thổ |  | Phụ Mẫu | Mùi-Thổ | Câu Trần | - - |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+### Ví dụ case10 vol01 ch15: Ngày Mậu Thân tháng Ngọ (Tuần không: Dần Mão)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Xin visa xuất ngoại có được không
+  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | TƯ | Lục Thân | Can Chi | Phục | Lục Thân | Can Chi | Lục Thú | Hào |
+    |---|---|---|---|---|---|---|---|---|
+    | - - | Thế | Phụ Mẫu | Mùi-Thổ |  | Phụ Mẫu | Mùi-Thổ | Chu Tước | - - |
+    | --- |  | Huynh Đệ | Dậu-Kim |  | Huynh Đệ | Dậu-Kim | Thanh Long | --- |
+    | --- |  | Tử Tôn | Hợi-Thủy |  | Tử Tôn | Hợi-Thủy | Huyền Vũ | --- |
+    | X | Ứng | Phụ Mẫu | Sửu-Thổ |  | Phụ Mẫu | Thìn-Thổ | Bạch Hổ | --- |
+    | --- |  | Thê Tài | Mão-Mộc |  | Thê Tài | Dần-Mộc | Đằng Xà | --- |
+    | --- |  | Quan Quỷ | Tị-Hỏa |  | Tử Tôn | Tý-Thủy | Câu Trần | --- |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+### Ví dụ case11 vol01 ch15: Ngày Canh Tý tháng Ngọ (Tuần không: Thìn Tị)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Phỏng vấn có được không
+  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | T/U | Lục Thân | Can Chi | Phục | Lục Thân | Can Chi | Lục Thú | Hào |
+    |---|---|---|---|---|---|---|---|---|
+    | - - | Thế | Tử Tôn | Dậu-Kim |  | Tử Tôn | Dậu-Kim | Đằng Xà | - - |
+    | - - |  | Thê Tài | Hợi-Thủy |  | Thê Tài | Hợi-Thủy | Câu Trần | - - |
+    | - - |  | Huynh Đệ | Sửu-Thổ |  | Huynh Đệ | Sửu-Thổ | Chu Tước | - - |
+    | X | Ứng | Quan Quỷ | Mão-Mộc |  | Thê Tài | Hợi-Thủy | Thanh Long | --- |
+    | - - |  | Phụ Mẫu | Tị-Hỏa |  | Huynh Đệ | Sửu-Thổ | Huyền Vũ | - - |
+    | X |  | Huynh Đệ | Mùi-Thổ |  | Quan Quỷ | Mão-Mộc | Bạch Hổ | --- |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+### Ví dụ case12 vol01 ch15: Ngày Ất Mão tháng Tuất (Tuần không: Tý Sửu)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Cát hung thế nào
+  - **Dã Hạc**: Người xem là thứ dân chợt nghe giá đến, đem người nghênh đón, được thụ tước tướng quân.
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | T/Ư | Lục Thân | Can Chi | Phục | Lục Thân | Can Chi | Lục Thú | Hào |
+    |---|---|---|---|---|---|---|---|---|
+    | - - | Ứng | Thê Tài | Tý-Thủy |  | Tử Tôn | Dậu-Kim | Huyền Vũ | - - |
+    | O |  | Huynh Đệ | Tuất-Thổ |  | Thê Tài | Hợi-Thủy | Bạch Hổ | - - |
+    | - - |  | Tử Tôn | Thân-Kim |  | Huynh Đệ | Sửu-Thổ | Đằng Xà | - - |
+    | - - | Thế | Quan Quỷ | Mão-Mộc |  | Quan Quỷ | Mão-Mộc | Câu Trần | - - |
+    | - - |  | Phụ Mẫu | Tỵ-Hỏa |  | Phụ Mẫu | Tỵ-Hỏa | Chu Tước | - - |
+    | - - |  | Huynh Đệ | Mùi-Thổ |  | Huynh Đệ | Mùi-Thổ | Thanh Long | - - |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
+
+### Ví dụ case13 vol01 ch15: Ngày Quý Hợi tháng Tỵ (Tuần không: Tý Sửu)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Hôn nhân
+  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | T/Ư | Lục Thân | Can Chi | Phục | Lục Thân | Can Chi | Lục Thú | Hào |
+    |---|---|---|---|---|---|---|---|---|
+    | - - | Ứng | Thê Tài | Mùi-Thổ |  | Thê Tài | Tuất-Thổ | Bạch Hổ | - - |
+    | O |  | Quan Quỷ | Dậu-Kim |  | Quan Quỷ | Thân-Kim | Đằng Xà | - - |
+    | --- |  | Phụ Mẫu | Hợi-Thủy | Tử-Ngọ | Tử Tôn | Ngọ-Hỏa | Câu Trần | --- |
+    | - - | Thế | Thê Tài | Thìn-Thổ |  | Thê Tài | Thìn-Thổ | Chu Tước | - - |
+    | - - |  | Huynh Đệ | Dần-Mộc |  | Huynh Đệ | Dần-Mộc | Thanh Long | - - |
+    | --- |  | Phụ Mẫu | Tý-Thủy |  | Phụ Mẫu | Tý-Thủy | Huyền Vũ | --- |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+### Ví dụ case14 vol01 ch15: Ngày Ất Mùi tháng Dần (Tuần không: Thìn Tị)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Trước mắt rất nguy.
+  - **Dã Hạc**: Dậu kim Tử tôn, tuy là mùa xuân hưu tù, được Nhật thần sinh phù, hào hai Tị...
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | Thế/Ứng | Lục Thân | Can Chi | Phục thần | Lục Thân | Can Chi | Lục Thú | Hào |
+    |---|---|---|---|---|---|---|---|---|
+    | - - | Thế | Tử Tôn | Dậu-Kim |  | Tử Tôn | Dậu-Kim | Huyền Vũ | - - |
+    | - - |  | Thê Tài | Hợi-Thủy |  | Thê Tài | Hợi-Thủy | Bạch Hổ | - - |
+    | - - |  | Huynh Đệ | Sửu-Thổ |  | Huynh Đệ | Sửu-Thổ | Đằng Xà | - - |
+    | - - | Ứng | Quan Quỷ | Mão-Mộc |  | Phụ Mẫu | Ngọ-Hỏa | Câu Trần | - - |
+    | X |  | Phụ Mẫu | Tị-Hỏa |  | Huynh Đệ | Thìn-Thổ | Chu Tước | --- |
+    | - - |  | Huynh Đệ | Mùi-Thổ |  | Quan Quỷ | Dần-Mộc | Thanh Long | - - |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+### Ví dụ case15 vol01 ch15: Ngày Đinh Tị tháng Thân (Tuần không: Tý Sửu)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Quan vận
+  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | T/U | Lục Thân | Can Chi | Phục thần | Lục Thân | Can Chi | Lục Thú | Hào |
+    |---|---|---|---|---|---|---|---|---|
+    | - - | Ứng | Thê Tài | Tý-Thủy |  | Thê Tài | Tý-Thủy | Thanh Long | - - |
+    | --- |  | Huynh Đệ | Tuất-Thổ |  | Huynh Đệ | Tuất-Thổ | Huyền Vũ | --- |
+    | - - |  | Tử Tôn | Thân-Kim |  | Tử Tôn | Thân-Kim | Bạch Hổ | - - |
+    | - - | Thế | Quan Quỷ | Mão-Mộc |  | Huynh Đệ | Thìn-Thổ | Đằng Xà | - - |
+    | - - |  | Phụ Mẫu | Tị-Hỏa |  | Quan Quỷ | Dần-Mộc | Câu Trần | - - |
+    | X |  | Huynh Đệ | Mùi-Thổ |  | Thê Tài | Tý-Thủy | Chu Tước | --- |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+### Ví dụ case16 vol01 ch15: Ngày Kỷ Mão tháng Mão (Tuần không: Thân Dậu)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Vợ vừa bị bệnh mãi không khỏi nên hỏi cát hung
+  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | T/V | Lục Thân | Can Chi | Phục | Lục Thân | Can Chi | Lục Thú | Hào |
+    |---|---|---|---|---|---|---|---|---|
+    | - - | Thế | Huynh Đệ | Tý-Thủy |  | Phụ Mẫu | Dậu-Kim | Câu Trần | - - |
+    | O |  | Quan Quỷ | Tuất-Thổ |  | Huynh Đệ | Hợi-Thủy | Chu Tước | - - |
+    | - - |  | Phụ Mẫu | Thân-Kim |  | Quan Quỷ | Sửu-Thổ | Thanh Long | - - |
+    | - - | Ứng | Thê Tài | Ngọ-Hỏa |  | Thê Tài | Ngọ-Hỏa | Huyền Vũ | - - |
+    | --- |  | Quan Quỷ | Thìn-Thổ |  | Quan Quỷ | Thìn-Thổ | Bạch Hổ | --- |
+    | - - |  | Tử Tôn | Dần-Mộc |  | Tử Tôn | Dần-Mộc | Đằng Xà | - - |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+### Ví dụ case17 vol01 ch15: Ngày Đinh Dậu tháng Thân (Tuần không: Thìn Tị)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Bệnh cho chó
+  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | T/Ư | Lục Thân | Can Chi | Phục | Lục Thân | Can Chi | Lục Thú | Hào |
+    |---|---|---|---|---|---|---|---|---|
+    | - - |  | Huynh Đệ | Dậu-Kim |  | Phụ Mẫu | Tuất-Thổ | Thanh Long | - - |
+    | - - | Thế | Tử Tôn | Hợi-Thủy |  | Huynh Đệ | Thân-Kim | Huyền Vũ | - - |
+    | - - X |  | Phụ Mẫu | Sửu-Thổ |  | Quan Quỷ | Ngọ-Hỏa | Bạch Hổ | --- |
+    | --- |  | Huynh Đệ | Thân-Kim |  | Tử Tôn | Hợi-Thủy | Đằng Xà | --- |
+    | - - | Ứng | Quan Quỷ | Ngọ-Hỏa | Tài-Mão | Phụ Mẫu | Sửu-Thổ | Câu Trần | - - |
+    | - - X |  | Phụ Mẫu | Thìn-Thổ |  | Thê Tài | Mão-Mộc | Chu Tước | --- |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+### Ví dụ case18 vol01 ch15: Ngày Quý Mão tháng Thìn (Tuần không: Thìn Tị)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Có thể ra không
+  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | Ký hiệu | T/Ư | Lục Thân | Can Chi | Phục thần | Lục Thú |
+    |---|---|---|---|---|---|---|
+    | 6 | - - | Thế | Huynh Đệ | Tý-Thủy |  | Bạch Hổ |
+    | 5 | --- |  | Quan Quỷ | Tuất-Thổ |  | Đằng Xà |
+    | 4 | - - |  | Phụ Mẫu | Thân-Kim |  | Câu Trần |
+    | 3 | - - | Ứng | Thê Tài | Ngọ-Hỏa |  | Chu Tước |
+    | 2 | --- |  | Quan Quỷ | Thìn-Thổ |  | Thanh Long |
+    | 1 | X |  | Tử Tôn | Dần-Mộc |  | Huyền Vũ |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
+
+### Ví dụ case1 vol01 ch15: Ngày Đinh Hợi tháng Thìn (tuần không: Ngọ Mùi)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Có được bổ nhiệm hay không
+  - **Dã Hạc**: Quẻ nội Hợi Mão Mùi hợp thành Tài cục sinh hào Thế Quan quỷ Tị hỏa. Hào Thế...
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    # TRẠCH ĐỊA TỤY | TRẠCH HỎA CÁCH
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+### Ví dụ case2 vol01 ch15: Ngày Ất Mùi tháng Thìn (Tuần không: Thìn Tị)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Chung thân công danh có hay không
+  - **Dã Hạc**: Sửu thổ Quan tĩnh trì Thế, hóa xuất Ngọ hỏa, Tài vượng sinh Quan. Năm Mão xem quẻ,...
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | T/U | Lục Thân | Can Chi | Phục | → | Lục Thân | Can Chi | Lục Thú | Hào |
+    |---|---|---|---|---|---|---|---|---|---|
+    | - - |  | Phụ Mẫu | Dậu-Kim |  |  | Quan Quỷ | Tuất-Thổ | Huyền Vũ | - - |
+    | - - |  | Huynh Đệ | Hợi-Thủy |  |  | Phụ Mẫu | Thân-Kim | Bạch Hổ | - - |
+    | X | Thế | Quan Quỷ | Sửu-Thổ |  |  | Thê Tài | Ngọ-Hỏa | Đằng Xà | --- |
+    | --- |  | Huynh Đệ | Hợi-Thủy | Tài-Ngọ |  | Huynh Đệ | Hợi-Thủy | Câu Trần | --- |
+    | - - |  | Quan Quỷ | Sửu-Thổ |  |  | Quan Quỷ | Sửu-Thổ | Chu Tước | - - |
+    | --- | Ứng | Tử Tôn | Mão-Mộc |  |  | Tử Tôn | Mão-Mộc | Thanh Long | --- |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+### Ví dụ case3 vol01 ch15: Ngày Ất Sửu tháng Dậu (Tuần không: Tuất Hợi)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Thi Hương
+  - **Dã Hạc**: Mùi Phụ hóa tiến thần, Tị hỏa Quan động mà sinh Thế, sẽ đỗ. Ngày Dần yết bảng,...
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | TƯ | Lục Thân | Can Chi | Phục |  | Lục Thân | Can Chi | Lục Thú | Hào |
+    |---|---|---|---|---|---|---|---|---|---|
+    | - - | Thế | Phụ Mẫu | Mùi-Thổ |  | X | Phụ Mẫu | Tuất-Thổ | Huyền Vũ | --- |
+    | --- |  | Huynh Đệ | Dậu-Kim |  |  | Huynh Đệ | Thân-Kim | Bạch Hổ | --- |
+    | --- |  | Tử Tôn | Hợi-Thủy |  |  | Quan Quỷ | Ngọ-Hỏa | Đằng Xà | --- |
+    | - - | Ứng | Phụ Mẫu | Sửu-Thổ |  |  | Quan Quỷ | Ngọ-Hỏa | Câu Trần | - - |
+    | --- |  | Thê Tài | Mão-Mộc |  |  | Phụ Mẫu | Thìn-Thổ | Chu Tước | --- |
+    | --- |  | Quan Quỷ | Tị-Hỏa |  | O | Thê Tài | Dần-Mộc | Thanh Long | - - |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
+
+### Ví dụ case4 vol01 ch15: Ngày Ngọ tháng Sửu xem quẻ
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Quẻ
+  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Quẻ chính: Phong Lôi Ích | Vị trí | Lục Thân | Can Chi | Phục thần | Lục Thú | Quẻ biến: Phong Hỏa Gia Nhân | Lục Thân | Can Chi |
+    |---|---|---|---|---|---|---|---|---|
+    | --- | Ứng | Huynh Đệ | Mão-Mộc |  | Thanh Long | --- | Huynh Đệ | Mão-Mộc |
+    | --- |  | Tử Tôn | Tị-Hỏa |  | Huyền Vũ | --- | Tử Tôn | Tị-Hỏa |
+    | - - |  | Thê Tài | Mùi-Thổ |  | Bạch Hổ | - - | Thê Tài | Mùi-Thổ |
+    | X | Thế | Thê Tài | Thìn-Thổ | Quan-Dậu | Đằng Xà | --- | Phụ Mẫu | Hợi-Thủy |
+    | - - |  | Huynh Đệ | Dần-Mộc |  | Câu Trần | - - | Thê Tài | Sửu-Thổ |
+    | --- |  | Phụ Mẫu | Tý-Thủy |  | Chu Tước | --- | Huynh Đệ | Mão-Mộc |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+### Ví dụ case5 vol01 ch15: Ngày Mậu Tý tháng Sửu (Tuần không: Ngọ Mùi)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Vậy mà không thèm để ý
+  - **Dã Hạc**: Quẻ này Dần mộc phát động hóa tiến thần, khắc Thế khắc Tài, không những mất tiền còn...
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | Tư | Lục Thân | Can Chi | Phục | Lục Thân | Can Chi | Lục Thú | Hào |
+    |---|---|---|---|---|---|---|---|---|
+    | --- | Ứng | Huynh Đệ | Mão-Mộc |  | Huynh Đệ | Mão-Mộc | Chu Tước | --- |
+    | --- |  | Tử Tôn | Tị-Hỏa |  | Tử Tôn | Tị-Hỏa | Thanh Long | --- |
+    | - - |  | Thê Tài | Mùi-Thổ |  | Thê Tài | Mùi-Thổ | Huyền Vũ | - - |
+    | - - | Thế | Thê Tài | Thìn-Thổ | Quan-Đới | Thê Tài | Sửu-Thổ | Bạch Hổ | - - |
+    | X |  | Huynh Đệ | Dần-Mộc |  | Huynh Đệ | Mão-Mộc | Đằng Xà | --- |
+    | --- |  | Phụ Mẫu | Tý-Thủy |  | Tử Tôn | Tị-Hỏa | Câu Trần | --- |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+### Ví dụ case6 vol01 ch15: Ngày Nhâm Tý tháng Thân (Tuần không: Dần Mão)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Hôn nhân
+  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    ## PHONG HỎA GIA NHÂN | TRẠCH HỎA CÁCH
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
+
+### Ví dụ case7 vol01 ch15: Ngày Quý Mùi tháng Tuất (Tuần không: Thân Dậu)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Bệnh
+  - **Dã Hạc**: Bệnh lâu gặp xung chớ trị, lại là hào Phụ trì Thế, diệu dược khó cứu. Tỵ hóa...
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | T/U | Lục Thân | Can Chi | Phục | Lục Thân | Can Chi | Lục Thú | Hào |
+    |---|---|---|---|---|---|---|---|---|
+    | O | Thế | Phụ Mẫu | Tuất-Thổ |  | Phụ Mẫu | Mùi-Thổ | Bạch Hổ | - - |
+    | --- |  | Huynh Đệ | Thân-Kim |  | Huynh Đệ | Dậu-Kim | Đằng Xà | --- |
+    | --- |  | Quan Quỷ | Ngọ-Hỏa |  | Tử Tôn | Hợi-Thủy | Câu Trần | --- |
+    | --- | Ứng | Phụ Mẫu | Thìn-Thổ |  | Phụ Mẫu | Thìn-Thổ | Chu Tước | --- |
+    | --- |  | Thê Tài | Dần-Mộc |  | Thê Tài | Dần-Mộc | Thanh Long | --- |
+    | --- |  | Tử Tôn | Tý-Thủy |  | Tử Tôn | Tý-Thủy | Huyền Vũ | --- |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+### Ví dụ case9 vol01 ch15: Ngày Ất Hợi tháng Mùi (Tuần Không: Thân Dậu)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Còn có khả năng nào không?
+  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    **PHONG THIÊN TIỂU SÚC** | **THIÊN HỎA ĐỒNG NHÂN**
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+
+## Chương XI: Xác định và lựa chọn Dụng thần
+
+
+
+### 📚 Các ca ví dụ thực tế nghiệm chứng (11 ca)
+
+### Ví dụ case10 vol01 ch11: Ngày Giáp Tuất tháng Thìn (Tuần không: Thân Dậu)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Công ty năm nay chia cổ tức hay không
+  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | TÁY | Lục Thân | Can Chi | Phục thần | Lục Thân | Can Chi | Lục Thú | Hào |
+    |---|---|---|---|---|---|---|---|---|
+    | --- |  | Quan Quỷ | Dần-Mộc |  | Huynh Đệ | Tuất-Thổ | Huyền Vũ | --- |
+    | - - |  | Thê Tài | Tý-Thủy |  | Tử Tôn | Thân-Kim | Bạch Hổ | - - X |
+    | - - | Ứng | Huynh Đệ | Tuất-Thổ |  | Phụ Mẫu | Ngọ-Hỏa | Đằng Xà | --- |
+    | --- |  | Thê Tài | Hợi-Thủy | Tử-Thủy | Huynh Đệ | Thìn-Thổ | Câu Trần | - - |
+    | - - |  | Huynh Đệ | Sửu-Thổ | Phụ-Ngọ | Quan Quỷ | Dần-Mộc | Chu Tước | - - |
+    | --- | Thế | Quan Quỷ | Mão-Mộc |  | Thê Tài | Tý-Thủy | Thanh Long | --- |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
+
+### Ví dụ case11 vol01 ch11: Bính Tý tháng Thân (Tuần không: Thân Dậu) (trích từ « Tăng...
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Sống chết của con
+  - **Dã Hạc**: Thủy là Tử tôn không xuất hiện, lại được tháng Bính năm Tân, Bính Tân hóa thủy, sau...
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | TƯ | Lục Thân | Can Chi | Phục thần |  | Lục Thân | Can Chi | Lục Thú | Hào |
+    |---|---|---|---|---|---|---|---|---|---|
+    | --- |  | Thê Tài | Mão-Mộc |  | O | Phụ Mẫu | Mùi-Thổ | Thanh Long | - - |
+    | --- |  | Quan Quỷ | Tị-Hỏa | Huynh-Thân |  | Huynh Đệ | Dậu-Kim | Huyền Vũ | --- |
+    | - - | Thế | Phụ Mẫu | Mùi-Thổ |  | X | Tử Tôn | Hợi-Thủy | Bạch Hổ | --- |
+    | - - |  | Thê Tài | Mão-Mộc |  |  | Thê Tài | Mão-Mộc | Đằng Xà | - - |
+    | - - |  | Quan Quỷ | Tị-Hỏa |  |  | Quan Quỷ | Tị-Hỏa | Câu Trần | - - |
+    | - - | Ứng | Phụ Mẫu | Mùi-Thổ | Tử-Tý |  | Phụ Mẫu | Mùi-Thổ | Chu Tước | - - |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+### Ví dụ case1 vol01 ch11: Ngày Giáp Thìn tháng Mùi (Tuần không: Dần Mão)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Anh ta nói một đống thuật ngữ chuyên nghiệp tôi chẳng hiểu gì cả, dường như
+  - **Dã Hạc**: "Dương hào động biến Mã tinh, xe đã bị trộm mang đi nơi khác, lại bị công an...
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | Vị trí | Lục Thân | Can Chi | Phục thần | Lục Thân | Can Chi | Lục Thú | Hào |
+    |---|---|---|---|---|---|---|---|---|
+    | --- |  | Huynh Đệ | Tuất-Thổ |  | Huynh Đệ | Tuất-Thổ | Huyền Vũ | --- |
+    | --- | Thế | Tử Tôn | Thân-Kim | Tài-Tỵ | Tử Tôn | Thân-Kim | Bạch Hổ | --- |
+    | --- |  | Phụ Mẫu | Ngọ-Hỏa |  | Phụ Mẫu | Ngọ-Hỏa | Đằng Xà | --- |
+    | - - |  | Huynh Đệ | Sửu-Thổ |  | Phụ Mẫu | Ngọ-Hỏa | Câu Trần | - - |
+    | --- | Ứng | Quan Quỷ | Mão-Mộc |  | Huynh Đệ | Thìn-Thổ | Chu Tước | --- |
+    | O |  | Phụ Mẫu | Tị-Hỏa |  | Quan Quỷ | Dần-Mộc | Thanh Long | - - |
+  - **Dụng thần**: "Bỏ hưu tù mà dụng vượng tướng, bỏ hào tĩnh mà dụng...
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
+
+### Ví dụ case2 vol01 ch11: Ngày Tân Mão tháng Sửu (Tuần không: Ngọ Mùi) (trích từ «...
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Con bị bệnh đậu
+  - **Dã Hạc**: Ngọ hỏa Phụ động khắc Tử, tuy có chế phục, nhưng ngại Quỷ biến Tử tôn, cần đề...
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    **BẤT THUẦN CẤN** | **ĐỊA PHONG THĂNG**
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+### Ví dụ case3 vol01 ch11: Ngày Tân Dậu tháng Mùi (Tuần không: Tý Sửu)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Quả có một vị xã đệ, bị bệnh điên cuồng, cho nên mới hỏi lại có...
+  - **Dã Hạc**: Huynh đệ tuy có, nhưng tất không được lợi.
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | T/U | Lục Thân | Can Chi | Phục thần |  | Lục Thân | Can Chi | Lục Thú | Hào |
+    |---|---|---|---|---|---|---|---|---|---|
+    | - - | Ứng | Huynh Đệ | Tý-Thủy |  |  | Quan Quỷ | Mùi-Thổ | Đằng Xà | - - |
+    | --- |  | Quan Quỷ | Tuất-Thổ |  |  | Phụ Mẫu | Dậu-Kim | Câu Trần | --- |
+    | - - |  | Phụ Mẫu | Thân-Kim |  | X | Huynh Đệ | Hợi-Thủy | Chu Tước | --- |
+    | --- | Thế | Huynh Đệ | Hợi-Thủy | Tài-Ngọ |  | Huynh Đệ | Hợi-Thủy | Thanh Long | --- |
+    | - - |  | Quan Quỷ | Sửu-Thổ |  |  | Quan Quỷ | Sửu-Thổ | Huyền Vũ | - - |
+    | --- |  | Tử Tôn | Mão-Mộc |  |  | Tử Tôn | Mão-Mộc | Bạch Hổ | --- |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+### Ví dụ case4 vol01 ch11: Canh Dần tháng Mão (Tuần không: Ngọ Mùi) (trích từ « Tăng...
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Tuổi thọ cho mẹ
+  - **Dã Hạc**: Trong quẻ Phụ Mẫu lưỡng hiện, lấy hào động Tuất thổ làm Dụng thần, xuân xem hưu tù,...
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | T/U | Lục Thân | Can Chi | Phục thần | Lục Thân | Can Chi | Lục Thú | Hào |
+    |---|---|---|---|---|---|---|---|---|
+    | - - |  | Tử Tôn | Tý-Thủy |  | Huynh Đệ | Dậu-Kim | Đằng Xà | - - |
+    | --- O |  | Phụ Mẫu | Tuất-Thổ |  | Tử Tôn | Hợi-Thủy | Câu Trần | - - |
+    | - - | Thế | Huynh Đệ | Thân-Kim |  | Phụ Mẫu | Sửu-Thổ | Chu Tước | - - |
+    | --- |  | Huynh Đệ | Thân-Kim |  | Huynh Đệ | Thân-Kim | Thanh Long | --- |
+    | - - |  | Quan Quỷ | Ngọ-Hỏa | Tài-Mão | Quan Quỷ | Ngọ-Hỏa | Huyền Vũ | - - |
+    | - - | Ứng | Phụ Mẫu | Thìn-Thổ |  | Phụ Mẫu | Thìn-Thổ | Bạch Hổ | - - |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+### Ví dụ case5 vol01 ch11: Ngày Đinh Mão tháng Thân (Tuần không: Tuất Hợi)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Lấy làm kỳ
+  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | ĐỊA HỎA MINH DI |  |  |  | ĐỊA THIÊN THÁI |  |  |
+    |---|---|---|---|---|---|---|
+    | (Khôn) Mộc du hồn |  |  |  | (Khôn) Thổ lục hợp |  |  |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+### Ví dụ case6 vol01 ch11: Mậu Tý tháng Mão (Tuần không: Ngọ Mùi)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Cụ thể như thế nào
+  - **Dã Hạc**: Có công danh khác. Trong quẻ Dậu Quan lâm phá, tức chức quan hiện nay phá mà vô...
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | T/U | Lục Thân | Can Chi | Phục thần | Lục Thân | Can Chi | Lục Thú | Hào |
+    |---|---|---|---|---|---|---|---|---|
+    | - - |  | Thê Tài | Mùi-Thổ |  | Phụ Mẫu | Tý-Thủy | Chu Tước | - - |
+    | --- |  | Quan Quỷ | Dậu-Kim |  | Thê Tài | Tuất-Thổ | Thanh Long | --- |
+    | --- | Thế | Phụ Mẫu | Hợi-Thủy | Tử-Ngọ | O Quan Quỷ | Thân-Kim | Huyền Vũ | - - |
+    | --- |  | Quan Quỷ | Dậu-Kim |  | Quan Quỷ | Dậu-Kim | Bạch Hổ | --- |
+    | --- |  | Phụ Mẫu | Hợi-Thủy | Huynh-Dần |  | Phụ Mẫu | Hợi-Thủy | Đằng Xà | --- |
+    | - - | Ứng | Thê Tài | Sửu-Thổ |  | Thê Tài | Sửu-Thổ | Câu Trần | - - |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
+
+### Ví dụ case7 vol01 ch11: Tháng Tị nhâm Ngọ Nhật (tuần không: Thân Dậu)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Ta có quan hệ ở bên trong, khả năng được là khá lớn
+  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | T/U | Lục Thân | Can Chi | Phục thần | Lục Thú | Can Chi | Lục Thú | Hào |
+    |---|---|---|---|---|---|---|---|---|
+    | --- | Ứng | Huynh Đệ | Mão-Mộc |  | Huynh Đệ | Mão-Mộc | Bạch Hổ | --- |
+    | --- |  | Tử Tôn | Tị-Hỏa |  | Tử Tôn | Tị-Hỏa | Đằng Xà | --- |
+    | - - |  | Thê Tài | Mùi-Thổ |  | Thê Tài | Mùi-Thổ | Câu Trần | - - |
+    | - - | Thế | Thê Tài | Thìn-Thổ | Quan-Quỷ | Thê Tài | Thìn-Thổ | Chu Tước | - - |
+    | - - |  | Huynh Đệ | Dần-Mộc |  | Huynh Đệ | Dần-Mộc | Thanh Long | - - |
+    | --- |  | Phụ Mẫu | Tý-Thủy |  | Phụ Mẫu | Tý-Thủy | Huyền Vũ | --- |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
+
+### Ví dụ case8 vol01 ch11: Ngày Nhâm Ngọ tháng Thân (Tuần không: Thân Dậu)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Hào Quan Thân kim tuy tại Nguyệt lệnh nhưng gặp không, sao thể nào sinh Thế?
+  - **Dã Hạc**: "Ở phương diện cát hung, Nhật Nguyệt là thật vì sao lại không? Chúng ta đều sinh hoạt...
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | Từ | Lục Thân | Can Chi | Phục thần | Lục Thú | Can Chi | Lục Thân | Hào |
+    |---|---|---|---|---|---|---|---|---|
+    | --- |  | Huynh Đệ | Mão-Mộc |  | Huynh Đệ | Mão-Mộc | --- |
+    | --- |  | Tử Tôn | Tỵ-Hỏa |  | Tử Tôn | Tỵ-Hỏa | --- |
+    | - - | Ứng | Thê Tài | Mùi-Thổ |  | Thê Tài | Mùi-Thổ | - - |
+    | --- |  | Thê Tài | Thìn-Thổ | Quan-Quỷ | Thê Tài | Thìn-Thổ | --- |
+    | --- |  | Huynh Đệ | Dần-Mộc |  | Huynh Đệ | Dần-Mộc | --- |
+    | --- | Thế | Phụ Mẫu | Tý-Thủy |  | Phụ Mẫu | Tý-Thủy | --- |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
+
+### Ví dụ case9 vol01 ch11: Ngày Bính Thìn tháng Thìn (Tuần không: Tý Sửu) (trích từ «...
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Dưới đất chợt nổi lên quang mang ngũ sắc
+  - **Dã Hạc**: Tài phục mà không, hoàn toàn không có gì. Sau vẫn đào, đào được một cái vạc vỡ,...
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | HỎA TRẠCH KHUÊ | SƠN PHONG CỔ |
+    |---|---|
+    | Ly Cấn | Tốn Chấn Mộc |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
+
+
+## Chương XVI: Phân rõ hào động hữu dụng
+
+
+
+### 📚 Các ca ví dụ thực tế nghiệm chứng (8 ca)
+
+### Ví dụ case1 vol01 ch16: Ngày Ất Mão tháng Thìn (Tuần không: Tý Sửu)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Cầu tài
+  - **Dã Hạc**: Thế tài Sửu thổ trì Thế gặp tuần không, tuy có Tị hỏa sinh nhưng Tị hỏa lại...
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | TƯ | Lục Thân | Can Chi | Phục thần | Lục Thân | Can Chi | Lục Thú | Hào |
+    |---|---|---|---|---|---|---|---|---|
+    | --- |  | Huynh Đệ | Mão-Mộc |  | Huynh Đệ | Dần-Mộc | Huyền Vũ | --- |
+    | O | Ứng | Tử Tôn | Tỵ-Hỏa |  | Phụ Mẫu | Tý-Thủy | Bạch Hổ | - - |
+    | - - |  | Thê Tài | Mùi-Thổ |  | Thê Tài | Tuất-Thổ | Đằng Xà | - - |
+    | --- |  | Phụ Mẫu | Hợi-Thủy | Quan-Dậu | Phụ Mẫu | Hợi-Thủy | Câu Trần | --- |
+    | - - | Thế | Thê Tài | Sửu-Thổ |  | Thê Tài | Sửu-Thổ | Chu Tước | - - |
+    | --- |  | Huynh Đệ | Mão-Mộc |  | Huynh Đệ | Mão-Mộc | Thanh Long | --- |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
+
+### Ví dụ case2 vol01 ch16: Ngày Nhâm Tý tháng Mùi (Tuần không: Dần Mão)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Quẻ động trong quẻ
+  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Quẻ chính | Quẻ biến |
+    |---|---|
+    | PHONG THIÊN TIỂU SÚC | PHONG TRẠCH TRUNG PHU |
+    | Tốn | Cấn |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+### Ví dụ case3 vol01 ch16: Ngày Bính Dần tháng Ngọ (Tuần không: Tuất Hợi)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Ra thành công không lớn
+  - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | T/U | Lục Thân | Can Chi | Phục thần | Động | Lục Thân | Can Chi | Lục Thú | Hào |
+    |---|---|---|---|---|---|---|---|---|---|
+    | --- |  | Quan Quỷ | Tị-Hỏa |  |  | Quan Quỷ | Tị-Hỏa | Thanh Long | --- |
+    | - - |  | Phụ Mẫu | Mùi-Thổ |  |  | Phụ Mẫu | Mùi-Thổ | Huyền Vũ | - - |
+    | --- | Thế | Huynh Đệ | Dậu-Kim |  |  | Huynh Đệ | Dậu-Kim | Bạch Hổ | --- |
+    | - - |  | Thê Tài | Mão-Mộc |  |  | Phụ Mẫu | Thìn-Thổ | Đằng Xà | - - |
+    | - - |  | Quan Quỷ | Tị-Hỏa |  |  | Thê Tài | Dần-Mộc | Câu Trần | - - |
+    | X | Ứng | Phụ Mẫu | Mùi-Thổ | Tử-Tý | X | Tử Tôn | Tý-Thủy | Chu Tước | --- |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+### Ví dụ case4 vol01 ch16: Ngày Quý Mão tháng Ngọ (Tuần không: Thìn Tị) (trích từ «...
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: 'Đã biết Tý thủy tiếp tục tương sinh, sách cổ nói: Kị thần và Nguyên thần...
+  - **Dã Hạc**: Dần mộc Quan tinh trì Thế, bị Thân kim động khắc, tháng bảy năm nay tất có hung...
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào | Từ | Lục Thân | Can Chi | Phục thần | Lục Thân | Can Chi | Lục Thú | Hào |
+    |---|---|---|---|---|---|---|---|---|
+    | --- | Thế | Quan Quỷ | Dần-Mộc |  | Quan Quỷ | Mão-Mộc | Bạch Hổ | --- |
+    | X |  | Thê Tài | Tý-Thủy |  | Phụ Mẫu | Tị-Hỏa | Đằng Xà | --- |
+    | - - |  | Huynh Đệ | Tuất-Thổ |  | Huynh Đệ | Mùi-Thổ | Câu Trần | - - |
+    | O | Ứng | Tử Tôn | Thân-Kim |  | Quan Quỷ | Mão-Mộc | Chu Tước | - - |
+    | - - |  | Phụ Mẫu | Ngọ-Hỏa |  | Phụ Mẫu | Tị-Hỏa | Thanh Long | - - |
+    | - - |  | Huynh Đệ | Thìn-Thổ |  | Huynh Đệ | Mùi-Thổ | Huyền Vũ | - - |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+### Ví dụ case5 vol01 ch16: Ngày Canh Thân tháng Mão (Tuần không: Tỵ Sửu)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Đúng a, cực kì bực bội, làm sao Ngài có thể nhìn ra được?
+  - **Dã Hạc**: "Trong quẻ Phụ Mẫu Dần mộc bị Nhật xung mà ám động, việc mua nhà đang diễn ra....
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    **HỎA THỦY VỊ TẾ** | **HỎA ĐỊA TẤN**
+    ---|---
+    **HỎA LY** | **HỎA CÀN (DU HỒN)**
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+### Ví dụ case6 vol01 ch16: Canh Dần tháng Ngọ (Tuần không: Ngọ Mùi)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Sao vậy?
+  - **Dã Hạc**: Tài là dưỡng Mệnh chi nguyên, lại là triều đình chi lộc, nay Tài lâm tuyệt địa, là...
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | SƠN THIÊN ĐẠI SÚC |  |  |  |  | PHONG TRẠCH TRUNG PHU |  |  |  |
+    |---|---|---|---|---|---|---|---|---|
+    | Hỗ Cấn |  |  |  |  | Hỗ Cấn Đoài |  |  |  |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
+
+### Ví dụ case7 vol01 ch16: Ngày Kỷ Dậu tháng Tỵ (Tuần không: Dần Mão)
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Là đang có hai việc làm ăn, là hỏi tổng thể lợi nhuận, có thể nhìn...
+  - **Dã Hạc**: "Thê Tài Sửu thổ động hóa xuất Tử tôn Ngọ hỏa hồi đầu sinh, là điềm tốt lấy...
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    | Hào chính | T/Ư | Lục Thân | Can Chi | Phục thần | Động | Lục Thân (quẻ biến) | Can Chi (quẻ biến) | Lục Thú | Hào biến |
+    |---|---|---|---|---|---|---|---|---|---|
+    | - - |  | Quan Quỷ | Dậu-Kim |  |  | Thê Tài | Tuất-Thổ | Câu Trần | - - |
+    | - - |  | Phụ Mẫu | Hợi-Thủy |  |  | Quan Quỷ | Thân-Kim | Chu Tước | - - |
+    | - - | Thế | Thê Tài | Sửu-Thổ | Tử-Ngọ | X | Tử Tôn | Ngọ-Hỏa | Thanh Long | --- |
+    | --- |  | Quan Quỷ | Dậu-Kim |  |  | Quan Quỷ | Dậu-Kim | Huyền Vũ | --- |
+    | --- |  | Phụ Mẫu | Hợi-Thủy | Huynh-Dần |  | Phụ Mẫu | Hợi-Thủy | Bạch Hổ | --- |
+    | - - | Ứng | Thê Tài | Sửu-Thổ |  |  | Thê Tài | Sửu-Thổ | Đằng Xà | - - |
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: PASS
+
+### Ví dụ case8 vol01 ch16: Ngày Bính Dần tháng Mão nha dịch xem quan phủ có được...
+
+- 💬 **Diễn biến vấn đáp**:
+  - **Thân chủ**: Quan phủ có được lên chức không
+  - **Dã Hạc**: Quan động hóa tiến thần, thu tới chắc sẽ được. Hào báo tháng Tị được thăng chức. Ứng...
+- ⚙️ **Quẻ lý & Nghiệm chứng**:
+  - **Bảng quẻ**:
+    ## LÔI THỦY GIẢI — Lục hợp | TRẠCH THỦY KHỐN
+  - **Dụng thần**: Dụng thần theo sự việc
+  - **Cơ chế luận**: Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.
+  - **Nghiệm chứng**: Sự việc ứng nghiệm đúng theo quẻ báo.
+  - **Kiểm toán nạp giáp**: Lệch 1 điểm nạp giáp
+
+
+## CHƯ THẦN BÀN GIẢNG NGHĨA
+
+
+
+## CHƯ THẦN BÀN GIẢNG NGHĨA
+
+
 ### 📚 Các ca ví dụ thực tế nghiệm chứng (5 ca)
 
 ### Ví dụ case1 vol01 ch 23: Ngày Bính Dần tháng Ngọ
 
 - 💬 **Diễn biến vấn đáp**:
-  - **Thân chủ**: Như vậy Phụ Mẫu Mùi thổ động hóa Tử tôn Tý thủy, dưới tình huống nào...
+  - **Thân chủ**: Như vậy Phụ Mẫu Mùi thổ động hóa Tử tôn Tý thủy
   - **Dã Hạc**: Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.
 - ⚙️ **Quẻ lý & Nghiệm chứng**:
   - **Bảng quẻ**:

@@ -1,0 +1,1316 @@
+[
+  {
+    "index": 1,
+    "case_file": "vd_21-10_vol02_ch21.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_21-10_vol02_ch21.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_21-10_vol02_ch21.json"
+  },
+  {
+    "index": 2,
+    "case_file": "vd_21-11_vol02_ch21.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_21-11_vol02_ch21.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_21-11_vol02_ch21.json"
+  },
+  {
+    "index": 3,
+    "case_file": "vd_21-12_vol02_ch21.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_21-12_vol02_ch21.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_21-12_vol02_ch21.json"
+  },
+  {
+    "index": 4,
+    "case_file": "vd_21-13_vol02_ch21.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_21-13_vol02_ch21.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_21-13_vol02_ch21.json"
+  },
+  {
+    "index": 5,
+    "case_file": "vd_21-14_vol02_ch21.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_21-14_vol02_ch21.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_21-14_vol02_ch21.json"
+  },
+  {
+    "index": 6,
+    "case_file": "vd_21-15_vol02_ch21.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_21-15_vol02_ch21.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_21-15_vol02_ch21.json"
+  },
+  {
+    "index": 7,
+    "case_file": "vd_21-16_vol02_ch21.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_21-16_vol02_ch21.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_21-16_vol02_ch21.json"
+  },
+  {
+    "index": 8,
+    "case_file": "vd_21-17_vol02_ch21.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_21-17_vol02_ch21.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_21-17_vol02_ch21.json"
+  },
+  {
+    "index": 9,
+    "case_file": "vd_21-18_vol02_ch21.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_21-18_vol02_ch21.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_21-18_vol02_ch21.json"
+  },
+  {
+    "index": 10,
+    "case_file": "vd_21-1_vol02_ch21.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_21-1_vol02_ch21.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_21-1_vol02_ch21.json"
+  },
+  {
+    "index": 11,
+    "case_file": "vd_21-2_vol02_ch21.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_21-2_vol02_ch21.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_21-2_vol02_ch21.json"
+  },
+  {
+    "index": 12,
+    "case_file": "vd_21-4_vol02_ch21.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_21-4_vol02_ch21.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_21-4_vol02_ch21.json"
+  },
+  {
+    "index": 13,
+    "case_file": "vd_21-5_vol02_ch21.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_21-5_vol02_ch21.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_21-5_vol02_ch21.json"
+  },
+  {
+    "index": 14,
+    "case_file": "vd_21-6_vol02_ch21.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_21-6_vol02_ch21.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_21-6_vol02_ch21.json"
+  },
+  {
+    "index": 15,
+    "case_file": "vd_21-7_vol02_ch21.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_21-7_vol02_ch21.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_21-7_vol02_ch21.json"
+  },
+  {
+    "index": 16,
+    "case_file": "vd_21-8_vol02_ch21.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_21-8_vol02_ch21.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_21-8_vol02_ch21.json"
+  },
+  {
+    "index": 17,
+    "case_file": "vd_21-9_vol02_ch21.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_21-9_vol02_ch21.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_21-9_vol02_ch21.json"
+  },
+  {
+    "index": 18,
+    "case_file": "vd_22-10_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-10_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-10_vol02_ch22.json"
+  },
+  {
+    "index": 19,
+    "case_file": "vd_22-11_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-11_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-11_vol02_ch22.json"
+  },
+  {
+    "index": 20,
+    "case_file": "vd_22-12_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-12_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-12_vol02_ch22.json"
+  },
+  {
+    "index": 21,
+    "case_file": "vd_22-13_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-13_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-13_vol02_ch22.json"
+  },
+  {
+    "index": 22,
+    "case_file": "vd_22-14_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-14_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-14_vol02_ch22.json"
+  },
+  {
+    "index": 23,
+    "case_file": "vd_22-15_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-15_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-15_vol02_ch22.json"
+  },
+  {
+    "index": 24,
+    "case_file": "vd_22-16_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-16_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-16_vol02_ch22.json"
+  },
+  {
+    "index": 25,
+    "case_file": "vd_22-17_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-17_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-17_vol02_ch22.json"
+  },
+  {
+    "index": 26,
+    "case_file": "vd_22-19_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-19_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-19_vol02_ch22.json"
+  },
+  {
+    "index": 27,
+    "case_file": "vd_22-1_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-1_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-1_vol02_ch22.json"
+  },
+  {
+    "index": 28,
+    "case_file": "vd_22-20_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-20_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-20_vol02_ch22.json"
+  },
+  {
+    "index": 29,
+    "case_file": "vd_22-21_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-21_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-21_vol02_ch22.json"
+  },
+  {
+    "index": 30,
+    "case_file": "vd_22-22_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-22_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-22_vol02_ch22.json"
+  },
+  {
+    "index": 31,
+    "case_file": "vd_22-23_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-23_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-23_vol02_ch22.json"
+  },
+  {
+    "index": 32,
+    "case_file": "vd_22-23_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-23_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-23_vol02_ch23.json"
+  },
+  {
+    "index": 33,
+    "case_file": "vd_22-24_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-24_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-24_vol02_ch22.json"
+  },
+  {
+    "index": 34,
+    "case_file": "vd_22-25_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-25_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-25_vol02_ch22.json"
+  },
+  {
+    "index": 35,
+    "case_file": "vd_22-26_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-26_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-26_vol02_ch22.json"
+  },
+  {
+    "index": 36,
+    "case_file": "vd_22-27_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-27_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-27_vol02_ch22.json"
+  },
+  {
+    "index": 37,
+    "case_file": "vd_22-28_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-28_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-28_vol02_ch22.json"
+  },
+  {
+    "index": 38,
+    "case_file": "vd_22-29_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-29_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-29_vol02_ch22.json"
+  },
+  {
+    "index": 39,
+    "case_file": "vd_22-2_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-2_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-2_vol02_ch22.json"
+  },
+  {
+    "index": 40,
+    "case_file": "vd_22-30_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-30_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-30_vol02_ch22.json"
+  },
+  {
+    "index": 41,
+    "case_file": "vd_22-31_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-31_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-31_vol02_ch22.json"
+  },
+  {
+    "index": 42,
+    "case_file": "vd_22-32_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-32_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-32_vol02_ch22.json"
+  },
+  {
+    "index": 43,
+    "case_file": "vd_22-33_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-33_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-33_vol02_ch22.json"
+  },
+  {
+    "index": 44,
+    "case_file": "vd_22-34_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-34_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-34_vol02_ch22.json"
+  },
+  {
+    "index": 45,
+    "case_file": "vd_22-35_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-35_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-35_vol02_ch22.json"
+  },
+  {
+    "index": 46,
+    "case_file": "vd_22-36_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-36_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-36_vol02_ch22.json"
+  },
+  {
+    "index": 47,
+    "case_file": "vd_22-37_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-37_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-37_vol02_ch22.json"
+  },
+  {
+    "index": 48,
+    "case_file": "vd_22-3_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-3_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-3_vol02_ch22.json"
+  },
+  {
+    "index": 49,
+    "case_file": "vd_22-4_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-4_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-4_vol02_ch22.json"
+  },
+  {
+    "index": 50,
+    "case_file": "vd_22-5_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-5_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-5_vol02_ch22.json"
+  },
+  {
+    "index": 51,
+    "case_file": "vd_22-6_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-6_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-6_vol02_ch22.json"
+  },
+  {
+    "index": 52,
+    "case_file": "vd_22-7_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_22-7_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_22-7_vol02_ch22.json"
+  },
+  {
+    "index": 53,
+    "case_file": "vd_23-10_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-10_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-10_vol02_ch23.json"
+  },
+  {
+    "index": 54,
+    "case_file": "vd_23-11_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-11_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-11_vol02_ch23.json"
+  },
+  {
+    "index": 55,
+    "case_file": "vd_23-12_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-12_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-12_vol02_ch23.json"
+  },
+  {
+    "index": 56,
+    "case_file": "vd_23-13_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-13_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-13_vol02_ch23.json"
+  },
+  {
+    "index": 57,
+    "case_file": "vd_23-14_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-14_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-14_vol02_ch23.json"
+  },
+  {
+    "index": 58,
+    "case_file": "vd_23-15_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-15_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-15_vol02_ch23.json"
+  },
+  {
+    "index": 59,
+    "case_file": "vd_23-16_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-16_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-16_vol02_ch23.json"
+  },
+  {
+    "index": 60,
+    "case_file": "vd_23-17_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-17_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-17_vol02_ch23.json"
+  },
+  {
+    "index": 61,
+    "case_file": "vd_23-18_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-18_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-18_vol02_ch23.json"
+  },
+  {
+    "index": 62,
+    "case_file": "vd_23-19_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-19_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-19_vol02_ch23.json"
+  },
+  {
+    "index": 63,
+    "case_file": "vd_23-1_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-1_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-1_vol02_ch23.json"
+  },
+  {
+    "index": 64,
+    "case_file": "vd_23-20_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-20_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-20_vol02_ch23.json"
+  },
+  {
+    "index": 65,
+    "case_file": "vd_23-22_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-22_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-22_vol02_ch23.json"
+  },
+  {
+    "index": 66,
+    "case_file": "vd_23-24_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-24_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-24_vol02_ch23.json"
+  },
+  {
+    "index": 67,
+    "case_file": "vd_23-25_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-25_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-25_vol02_ch23.json"
+  },
+  {
+    "index": 68,
+    "case_file": "vd_23-26_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-26_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-26_vol02_ch23.json"
+  },
+  {
+    "index": 69,
+    "case_file": "vd_23-27_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-27_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-27_vol02_ch23.json"
+  },
+  {
+    "index": 70,
+    "case_file": "vd_23-28_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-28_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-28_vol02_ch23.json"
+  },
+  {
+    "index": 71,
+    "case_file": "vd_23-29_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-29_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-29_vol02_ch23.json"
+  },
+  {
+    "index": 72,
+    "case_file": "vd_23-2_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-2_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-2_vol02_ch23.json"
+  },
+  {
+    "index": 73,
+    "case_file": "vd_23-30_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-30_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-30_vol02_ch23.json"
+  },
+  {
+    "index": 74,
+    "case_file": "vd_23-31_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-31_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-31_vol02_ch23.json"
+  },
+  {
+    "index": 75,
+    "case_file": "vd_23-32_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-32_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-32_vol02_ch23.json"
+  },
+  {
+    "index": 76,
+    "case_file": "vd_23-33_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-33_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-33_vol02_ch23.json"
+  },
+  {
+    "index": 77,
+    "case_file": "vd_23-35_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-35_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-35_vol02_ch23.json"
+  },
+  {
+    "index": 78,
+    "case_file": "vd_23-36_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-36_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-36_vol02_ch23.json"
+  },
+  {
+    "index": 79,
+    "case_file": "vd_23-37_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-37_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-37_vol02_ch23.json"
+  },
+  {
+    "index": 80,
+    "case_file": "vd_23-38_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-38_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-38_vol02_ch23.json"
+  },
+  {
+    "index": 81,
+    "case_file": "vd_23-39_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-39_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-39_vol02_ch23.json"
+  },
+  {
+    "index": 82,
+    "case_file": "vd_23-3_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-3_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-3_vol02_ch23.json"
+  },
+  {
+    "index": 83,
+    "case_file": "vd_23-40_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-40_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-40_vol02_ch23.json"
+  },
+  {
+    "index": 84,
+    "case_file": "vd_23-41_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-41_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-41_vol02_ch23.json"
+  },
+  {
+    "index": 85,
+    "case_file": "vd_23-42_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-42_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-42_vol02_ch23.json"
+  },
+  {
+    "index": 86,
+    "case_file": "vd_23-4_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-4_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-4_vol02_ch23.json"
+  },
+  {
+    "index": 87,
+    "case_file": "vd_23-5_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-5_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-5_vol02_ch23.json"
+  },
+  {
+    "index": 88,
+    "case_file": "vd_23-6_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-6_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-6_vol02_ch23.json"
+  },
+  {
+    "index": 89,
+    "case_file": "vd_23-7_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-7_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-7_vol02_ch23.json"
+  },
+  {
+    "index": 90,
+    "case_file": "vd_23-8_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-8_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-8_vol02_ch23.json"
+  },
+  {
+    "index": 91,
+    "case_file": "vd_23-9_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_23-9_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_23-9_vol02_ch23.json"
+  },
+  {
+    "index": 92,
+    "case_file": "vd_24-10_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-10_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-10_vol02_ch24.json"
+  },
+  {
+    "index": 93,
+    "case_file": "vd_24-11_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-11_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-11_vol02_ch24.json"
+  },
+  {
+    "index": 94,
+    "case_file": "vd_24-12_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-12_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-12_vol02_ch24.json"
+  },
+  {
+    "index": 95,
+    "case_file": "vd_24-13_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-13_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-13_vol02_ch24.json"
+  },
+  {
+    "index": 96,
+    "case_file": "vd_24-14_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-14_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-14_vol02_ch24.json"
+  },
+  {
+    "index": 97,
+    "case_file": "vd_24-15_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-15_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-15_vol02_ch24.json"
+  },
+  {
+    "index": 98,
+    "case_file": "vd_24-16_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-16_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-16_vol02_ch24.json"
+  },
+  {
+    "index": 99,
+    "case_file": "vd_24-17_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-17_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-17_vol02_ch24.json"
+  },
+  {
+    "index": 100,
+    "case_file": "vd_24-18_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-18_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-18_vol02_ch24.json"
+  },
+  {
+    "index": 101,
+    "case_file": "vd_24-19_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-19_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-19_vol02_ch24.json"
+  },
+  {
+    "index": 102,
+    "case_file": "vd_24-1_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-1_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-1_vol02_ch24.json"
+  },
+  {
+    "index": 103,
+    "case_file": "vd_24-20_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-20_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-20_vol02_ch24.json"
+  },
+  {
+    "index": 104,
+    "case_file": "vd_24-21_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-21_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-21_vol02_ch24.json"
+  },
+  {
+    "index": 105,
+    "case_file": "vd_24-22_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-22_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-22_vol02_ch24.json"
+  },
+  {
+    "index": 106,
+    "case_file": "vd_24-23_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-23_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-23_vol02_ch24.json"
+  },
+  {
+    "index": 107,
+    "case_file": "vd_24-24_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-24_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-24_vol02_ch24.json"
+  },
+  {
+    "index": 108,
+    "case_file": "vd_24-25_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-25_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-25_vol02_ch24.json"
+  },
+  {
+    "index": 109,
+    "case_file": "vd_24-26_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-26_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-26_vol02_ch24.json"
+  },
+  {
+    "index": 110,
+    "case_file": "vd_24-27_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-27_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-27_vol02_ch24.json"
+  },
+  {
+    "index": 111,
+    "case_file": "vd_24-28_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-28_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-28_vol02_ch24.json"
+  },
+  {
+    "index": 112,
+    "case_file": "vd_24-29_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-29_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-29_vol02_ch24.json"
+  },
+  {
+    "index": 113,
+    "case_file": "vd_24-2_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-2_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-2_vol02_ch24.json"
+  },
+  {
+    "index": 114,
+    "case_file": "vd_24-30_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-30_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-30_vol02_ch24.json"
+  },
+  {
+    "index": 115,
+    "case_file": "vd_24-31_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-31_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-31_vol02_ch24.json"
+  },
+  {
+    "index": 116,
+    "case_file": "vd_24-32_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-32_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-32_vol02_ch24.json"
+  },
+  {
+    "index": 117,
+    "case_file": "vd_24-33_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-33_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-33_vol02_ch24.json"
+  },
+  {
+    "index": 118,
+    "case_file": "vd_24-34_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-34_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-34_vol02_ch24.json"
+  },
+  {
+    "index": 119,
+    "case_file": "vd_24-35_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-35_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-35_vol02_ch24.json"
+  },
+  {
+    "index": 120,
+    "case_file": "vd_24-36_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-36_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-36_vol02_ch24.json"
+  },
+  {
+    "index": 121,
+    "case_file": "vd_24-37_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-37_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-37_vol02_ch24.json"
+  },
+  {
+    "index": 122,
+    "case_file": "vd_24-38_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-38_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-38_vol02_ch24.json"
+  },
+  {
+    "index": 123,
+    "case_file": "vd_24-3_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-3_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-3_vol02_ch24.json"
+  },
+  {
+    "index": 124,
+    "case_file": "vd_24-40_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-40_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-40_vol02_ch24.json"
+  },
+  {
+    "index": 125,
+    "case_file": "vd_24-41_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-41_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-41_vol02_ch24.json"
+  },
+  {
+    "index": 126,
+    "case_file": "vd_24-42_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-42_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-42_vol02_ch24.json"
+  },
+  {
+    "index": 127,
+    "case_file": "vd_24-43_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-43_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-43_vol02_ch24.json"
+  },
+  {
+    "index": 128,
+    "case_file": "vd_24-44_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-44_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-44_vol02_ch24.json"
+  },
+  {
+    "index": 129,
+    "case_file": "vd_24-45_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-45_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-45_vol02_ch24.json"
+  },
+  {
+    "index": 130,
+    "case_file": "vd_24-46_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-46_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-46_vol02_ch24.json"
+  },
+  {
+    "index": 131,
+    "case_file": "vd_24-47_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-47_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-47_vol02_ch24.json"
+  },
+  {
+    "index": 132,
+    "case_file": "vd_24-48_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-48_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-48_vol02_ch24.json"
+  },
+  {
+    "index": 133,
+    "case_file": "vd_24-49_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-49_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-49_vol02_ch24.json"
+  },
+  {
+    "index": 134,
+    "case_file": "vd_24-4_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-4_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-4_vol02_ch24.json"
+  },
+  {
+    "index": 135,
+    "case_file": "vd_24-50_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-50_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-50_vol02_ch24.json"
+  },
+  {
+    "index": 136,
+    "case_file": "vd_24-52_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-52_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-52_vol02_ch24.json"
+  },
+  {
+    "index": 137,
+    "case_file": "vd_24-53_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-53_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-53_vol02_ch24.json"
+  },
+  {
+    "index": 138,
+    "case_file": "vd_24-54_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-54_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-54_vol02_ch24.json"
+  },
+  {
+    "index": 139,
+    "case_file": "vd_24-55_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-55_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-55_vol02_ch24.json"
+  },
+  {
+    "index": 140,
+    "case_file": "vd_24-56_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-56_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-56_vol02_ch24.json"
+  },
+  {
+    "index": 141,
+    "case_file": "vd_24-57_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-57_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-57_vol02_ch24.json"
+  },
+  {
+    "index": 142,
+    "case_file": "vd_24-5_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-5_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-5_vol02_ch24.json"
+  },
+  {
+    "index": 143,
+    "case_file": "vd_24-6_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-6_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-6_vol02_ch24.json"
+  },
+  {
+    "index": 144,
+    "case_file": "vd_24-7_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-7_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-7_vol02_ch24.json"
+  },
+  {
+    "index": 145,
+    "case_file": "vd_24-8_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-8_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-8_vol02_ch24.json"
+  },
+  {
+    "index": 146,
+    "case_file": "vd_24-9_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24-9_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24-9_vol02_ch24.json"
+  },
+  {
+    "index": 147,
+    "case_file": "vd_24_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_24_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_24_vol02_ch24.json"
+  },
+  {
+    "index": 148,
+    "case_file": "vd_25-10_vol02_ch25.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_25-10_vol02_ch25.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_25-10_vol02_ch25.json"
+  },
+  {
+    "index": 149,
+    "case_file": "vd_25-11_vol02_ch25.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_25-11_vol02_ch25.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_25-11_vol02_ch25.json"
+  },
+  {
+    "index": 150,
+    "case_file": "vd_25-1_vol02_ch25.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_25-1_vol02_ch25.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_25-1_vol02_ch25.json"
+  },
+  {
+    "index": 151,
+    "case_file": "vd_25-2_vol02_ch25.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_25-2_vol02_ch25.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_25-2_vol02_ch25.json"
+  },
+  {
+    "index": 152,
+    "case_file": "vd_25-3_vol02_ch25.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_25-3_vol02_ch25.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_25-3_vol02_ch25.json"
+  },
+  {
+    "index": 153,
+    "case_file": "vd_25-4_vol02_ch25.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_25-4_vol02_ch25.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_25-4_vol02_ch25.json"
+  },
+  {
+    "index": 154,
+    "case_file": "vd_25-5_vol02_ch25.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_25-5_vol02_ch25.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_25-5_vol02_ch25.json"
+  },
+  {
+    "index": 155,
+    "case_file": "vd_25-6_vol02_ch25.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_25-6_vol02_ch25.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_25-6_vol02_ch25.json"
+  },
+  {
+    "index": 156,
+    "case_file": "vd_25-7_vol02_ch25.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_25-7_vol02_ch25.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_25-7_vol02_ch25.json"
+  },
+  {
+    "index": 157,
+    "case_file": "vd_25-8_vol02_ch25.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_25-8_vol02_ch25.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_25-8_vol02_ch25.json"
+  },
+  {
+    "index": 158,
+    "case_file": "vd_25-9_vol02_ch25.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_25-9_vol02_ch25.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_25-9_vol02_ch25.json"
+  },
+  {
+    "index": 159,
+    "case_file": "vd_26-10_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-10_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-10_vol02_ch26.json"
+  },
+  {
+    "index": 160,
+    "case_file": "vd_26-11_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-11_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-11_vol02_ch26.json"
+  },
+  {
+    "index": 161,
+    "case_file": "vd_26-12_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-12_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-12_vol02_ch26.json"
+  },
+  {
+    "index": 162,
+    "case_file": "vd_26-13_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-13_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-13_vol02_ch26.json"
+  },
+  {
+    "index": 163,
+    "case_file": "vd_26-14_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-14_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-14_vol02_ch26.json"
+  },
+  {
+    "index": 164,
+    "case_file": "vd_26-15_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-15_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-15_vol02_ch26.json"
+  },
+  {
+    "index": 165,
+    "case_file": "vd_26-16_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-16_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-16_vol02_ch26.json"
+  },
+  {
+    "index": 166,
+    "case_file": "vd_26-17_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-17_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-17_vol02_ch26.json"
+  },
+  {
+    "index": 167,
+    "case_file": "vd_26-18_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-18_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-18_vol02_ch26.json"
+  },
+  {
+    "index": 168,
+    "case_file": "vd_26-19_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-19_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-19_vol02_ch26.json"
+  },
+  {
+    "index": 169,
+    "case_file": "vd_26-1_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-1_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-1_vol02_ch26.json"
+  },
+  {
+    "index": 170,
+    "case_file": "vd_26-20_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-20_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-20_vol02_ch26.json"
+  },
+  {
+    "index": 171,
+    "case_file": "vd_26-22_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-22_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-22_vol02_ch26.json"
+  },
+  {
+    "index": 172,
+    "case_file": "vd_26-23_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-23_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-23_vol02_ch26.json"
+  },
+  {
+    "index": 173,
+    "case_file": "vd_26-24_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-24_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-24_vol02_ch26.json"
+  },
+  {
+    "index": 174,
+    "case_file": "vd_26-25_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-25_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-25_vol02_ch26.json"
+  },
+  {
+    "index": 175,
+    "case_file": "vd_26-26_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-26_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-26_vol02_ch26.json"
+  },
+  {
+    "index": 176,
+    "case_file": "vd_26-27_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-27_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-27_vol02_ch26.json"
+  },
+  {
+    "index": 177,
+    "case_file": "vd_26-28_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-28_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-28_vol02_ch26.json"
+  },
+  {
+    "index": 178,
+    "case_file": "vd_26-29_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-29_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-29_vol02_ch26.json"
+  },
+  {
+    "index": 179,
+    "case_file": "vd_26-2_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-2_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-2_vol02_ch26.json"
+  },
+  {
+    "index": 180,
+    "case_file": "vd_26-3_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-3_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-3_vol02_ch26.json"
+  },
+  {
+    "index": 181,
+    "case_file": "vd_26-4_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-4_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-4_vol02_ch26.json"
+  },
+  {
+    "index": 182,
+    "case_file": "vd_26-5_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-5_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-5_vol02_ch26.json"
+  },
+  {
+    "index": 183,
+    "case_file": "vd_26-6_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-6_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-6_vol02_ch26.json"
+  },
+  {
+    "index": 184,
+    "case_file": "vd_26-7_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-7_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-7_vol02_ch26.json"
+  },
+  {
+    "index": 185,
+    "case_file": "vd_26-8_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-8_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-8_vol02_ch26.json"
+  },
+  {
+    "index": 186,
+    "case_file": "vd_26-9_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_26-9_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_26-9_vol02_ch26.json"
+  },
+  {
+    "index": 187,
+    "case_file": "vd_27-10_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-10_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-10_vol02_ch27.json"
+  },
+  {
+    "index": 188,
+    "case_file": "vd_27-11_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-11_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-11_vol02_ch27.json"
+  },
+  {
+    "index": 189,
+    "case_file": "vd_27-12_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-12_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-12_vol02_ch27.json"
+  },
+  {
+    "index": 190,
+    "case_file": "vd_27-13_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-13_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-13_vol02_ch27.json"
+  },
+  {
+    "index": 191,
+    "case_file": "vd_27-14_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-14_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-14_vol02_ch27.json"
+  },
+  {
+    "index": 192,
+    "case_file": "vd_27-15_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-15_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-15_vol02_ch27.json"
+  },
+  {
+    "index": 193,
+    "case_file": "vd_27-16_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-16_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-16_vol02_ch27.json"
+  },
+  {
+    "index": 194,
+    "case_file": "vd_27-17_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-17_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-17_vol02_ch27.json"
+  },
+  {
+    "index": 195,
+    "case_file": "vd_27-18_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-18_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-18_vol02_ch27.json"
+  },
+  {
+    "index": 196,
+    "case_file": "vd_27-19_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-19_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-19_vol02_ch27.json"
+  },
+  {
+    "index": 197,
+    "case_file": "vd_27-1_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-1_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-1_vol02_ch27.json"
+  },
+  {
+    "index": 198,
+    "case_file": "vd_27-20_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-20_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-20_vol02_ch27.json"
+  },
+  {
+    "index": 199,
+    "case_file": "vd_27-21_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-21_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-21_vol02_ch27.json"
+  },
+  {
+    "index": 200,
+    "case_file": "vd_27-22_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-22_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-22_vol02_ch27.json"
+  },
+  {
+    "index": 201,
+    "case_file": "vd_27-23_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-23_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-23_vol02_ch27.json"
+  },
+  {
+    "index": 202,
+    "case_file": "vd_27-24_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-24_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-24_vol02_ch27.json"
+  },
+  {
+    "index": 203,
+    "case_file": "vd_27-2_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-2_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-2_vol02_ch27.json"
+  },
+  {
+    "index": 204,
+    "case_file": "vd_27-3_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-3_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-3_vol02_ch27.json"
+  },
+  {
+    "index": 205,
+    "case_file": "vd_27-4_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-4_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-4_vol02_ch27.json"
+  },
+  {
+    "index": 206,
+    "case_file": "vd_27-5_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-5_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-5_vol02_ch27.json"
+  },
+  {
+    "index": 207,
+    "case_file": "vd_27-6_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-6_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-6_vol02_ch27.json"
+  },
+  {
+    "index": 208,
+    "case_file": "vd_27-7_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-7_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-7_vol02_ch27.json"
+  },
+  {
+    "index": 209,
+    "case_file": "vd_27-8_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-8_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-8_vol02_ch27.json"
+  },
+  {
+    "index": 210,
+    "case_file": "vd_27-9_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_27-9_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_27-9_vol02_ch27.json"
+  },
+  {
+    "index": 211,
+    "case_file": "vd_case21_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_case21_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_case21_vol02_ch23.json"
+  },
+  {
+    "index": 212,
+    "case_file": "vd_case21_vol02_ch26.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_case21_vol02_ch26.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_case21_vol02_ch26.json"
+  },
+  {
+    "index": 213,
+    "case_file": "vd_case31_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_case31_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_case31_vol02_ch22.json"
+  },
+  {
+    "index": 214,
+    "case_file": "vd_case34_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_case34_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_case34_vol02_ch23.json"
+  },
+  {
+    "index": 215,
+    "case_file": "vd_case38_vol02_ch23.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_case38_vol02_ch23.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_case38_vol02_ch23.json"
+  },
+  {
+    "index": 216,
+    "case_file": "vd_case3_vol02_ch27.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_case3_vol02_ch27.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_case3_vol02_ch27.json"
+  },
+  {
+    "index": 217,
+    "case_file": "vd_case51_vol02_ch24.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_case51_vol02_ch24.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_case51_vol02_ch24.json"
+  },
+  {
+    "index": 218,
+    "case_file": "vd_case8_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_case8_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_case8_vol02_ch22.json"
+  },
+  {
+    "index": 219,
+    "case_file": "vd_case9_vol02_ch22.md",
+    "case_path": "C:\\Users\\Admin\\Downloads\\antgravity workplace\\coboc_output\\cases\\vd_case9_vol02_ch22.md",
+    "output_json": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\c-b-c-branches\\vol02_cases\\vd_case9_vol02_ch22.json"
+  }
+]

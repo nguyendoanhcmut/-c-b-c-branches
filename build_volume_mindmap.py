@@ -12,7 +12,8 @@ COMPILER_JS = r"C:\Users\Admin\.gemini\config\skills\branches\scripts\compile_mi
 def clean_ste(text, max_words=18):
     if not text:
         return ""
-    t = re.sub(r'\s*\([A-Za-z\s,_\-]+\)', '', text)
+    t = re.sub(r'\s*\([A-Za-z\s,_\-\']+\)', '', text)
+    t = re.sub(r'\s*\([^)]*$', '', t)
     t = t.replace('**', '').replace('__', '').strip()
     t = re.sub(r'\s+', ' ', t)
     words = t.split()
@@ -23,31 +24,76 @@ def clean_ste(text, max_words=18):
         t = t[:-1].strip()
     if t and t[0].islower():
         t = t[0].upper() + t[1:]
+    if not re.search(r'[a-zA-ZÀ-ỹ0-9]', t):
+        return ""
     return t
 
 def extract_can_chi(text):
     m = re.search(r'Can chi\s*:\s*([^\n]+)', text, re.IGNORECASE)
     if m:
-        return clean_ste(m.group(1).strip(), 12)
+        val = re.sub(r'[\(（]\s*trích từ[^\)）]+[\)）]', '', m.group(1), flags=re.IGNORECASE).strip()
+        if '(' in val and ')' not in val:
+            after = text[m.end():m.end()+120]
+            if ')' in after:
+                val = val + " " + after.split(')')[0].strip() + ")"
+        val = re.sub(r'[\(（]\s*trích từ[^\)）]+[\)）]', '', val, flags=re.IGNORECASE).strip()
+        return clean_ste(val, 12)
+    m_tk = re.search(r'(Ngày\s+[^\n,\(]+(?:\s*\([^)]*tuần không[^)]*\)))', text, re.IGNORECASE)
+    if m_tk:
+        val = re.sub(r'[\(（]\s*trích từ[^\)）]+[\)）]', '', m_tk.group(1), flags=re.IGNORECASE).strip()
+        return clean_ste(val, 12)
     m = re.search(r'(Ngày\s+[^\n,\(]+(?:\s*\([^\)]+\))?)', text, re.IGNORECASE)
     if m:
-        return clean_ste(m.group(1).strip(), 12)
+        val = m.group(1)
+        val = re.split(r'\s+(?:xem|chiêm|hỏi|cầu|đoán|được)', val, flags=re.IGNORECASE)[0]
+        val = re.sub(r'[\(（]\s*trích từ[^\)）]+[\)）]', '', val, flags=re.IGNORECASE).strip()
+        return clean_ste(val, 12)
     m = re.search(r'(?:Can chi|Ngày)[^:\n]*:?\s*([^\n\(]+(?:\([^\)]+\))?)', text, re.IGNORECASE)
     if m:
-        return clean_ste(m.group(1).strip(), 12)
+        val = m.group(1)
+        val = re.split(r'\s+(?:xem|chiêm|hỏi|cầu|đoán|được)', val, flags=re.IGNORECASE)[0]
+        val = re.sub(r'[\(（]\s*trích từ[^\)）]+[\)）]', '', val, flags=re.IGNORECASE).strip()
+        return clean_ste(val, 12)
     return "Chưa rõ nhật nguyệt"
 
 def extract_table(text):
     lines = text.split('\n')
-    table_lines = []
-    in_table = False
+    tables = []
+    curr = []
     for line in lines:
-        if '|' in line:
-            in_table = True
-            table_lines.append(line)
-        elif in_table:
-            break
-    return "\n".join(table_lines)
+        stripped = line.strip()
+        if '|' in stripped and not stripped.startswith('#'):
+            curr.append(stripped)
+        else:
+            if curr:
+                tables.append(curr)
+                curr = []
+    if curr:
+        tables.append(curr)
+    
+    if not tables:
+        return ""
+
+    # Check for dual tables: Quẻ chính & Quẻ biến (both having >= 8 lines with Hào or Lục Thân)
+    main_yao_tables = [t for t in tables if any('Hào' in row or 'Lục Thân' in row for row in t[:2]) and len(t) >= 8]
+    if len(main_yao_tables) == 2 and len(main_yao_tables[0]) == len(main_yao_tables[1]):
+        res = []
+        for l1, l2 in zip(main_yao_tables[0], main_yao_tables[1]):
+            p1 = [c.strip() for c in l1.strip('|').split('|')]
+            p2 = [c.strip() for c in l2.strip('|').split('|')]
+            combined = '| ' + ' | '.join(p1 + p2) + ' |'
+            res.append(combined)
+        return "\n".join(res)
+
+    # Prefer table containing Hào or Lục Thân with at least 6 lines
+    for t in tables:
+        if any('Hào' in row or 'Lục Thân' in row for row in t[:2]) and len(t) >= 6:
+            return "\n".join(t)
+
+    # Otherwise return largest table
+    largest = max(tables, key=len)
+    return "\n".join(largest)
+
 
 def parse_case(cpath, mismatches_map):
     cfile = os.path.basename(cpath)
@@ -73,18 +119,39 @@ def parse_case(cpath, mismatches_map):
         part = cm_text.split('querent_replies:')[1].split('requires_dialog:')[0]
         for l in part.split('\n'):
             if l.strip().startswith('-'):
-                cl = clean_ste(l.strip().lstrip('- ').strip(), 16)
-                if cl and not re.search(r'\b(the|client|diviner|inquiry|context)\b', cl, re.I):
+                raw_l = l.strip().lstrip('- ').strip()
+                if re.search(r'\b(the|client|querent|diviner|inquiry|context|reply|replies|response|none)\b', raw_l, re.I):
+                    continue
+                cl = clean_ste(raw_l, 16)
+                if cl and not re.search(r'\b(the|client|querent|diviner|inquiry|context)\b', cl, re.I):
                     querent_lines.append(cl)
     if not querent_lines:
+        m_title = re.search(r'(?:\*\*|)(?:Ví dụ|VD)[^:]*:\s*([^\*\n]+)', text, re.I)
+        if m_title:
+            t_val = m_title.group(1).strip()
+            t_val = re.sub(r'\*\*.*', '', t_val).strip()
+            if any(k in t_val.lower() for k in ['hỏi', 'chiếm', 'xem', 'cầu', 'đoán', 'bói', 'đẻ con']):
+                t_sub = re.sub(r'^Ngày\s+[^\s,]+(?:\s+[^\s,]+)?\s+tháng\s+[^\s,]+(?:\s*\([^\)]+\))?[,\s]*', '', t_val, flags=re.I).strip()
+                t_sub = re.split(r'\s+được quẻ', t_sub)[0].strip()
+                if t_sub:
+                    querent_lines.append(clean_ste(t_sub, 16))
+                else:
+                    querent_lines.append(clean_ste(t_val, 16))
+    if not querent_lines:
+        lines_all = text.split('\n')
         for prefix in ['Hỏi:', 'Chiếm:', 'Xem:', 'Vấn:', 'xem ', 'hỏi ']:
-            for line in text.split('\n'):
+            for l_idx, line in enumerate(lines_all):
                 if prefix in line and not line.startswith('#'):
                     m_val = line.split(prefix, 1)[1].strip()
+                    if (m_val.endswith(('của', 'về', 'cho', 'ở', 'tại', 'và')) or len(m_val.split()) <= 2) and l_idx + 1 < len(lines_all):
+                        nxt_l = lines_all[l_idx + 1].strip()
+                        if nxt_l and not nxt_l.startswith('#') and not nxt_l.startswith('---'):
+                            m_val = m_val + " " + nxt_l
                     # Clean up trailing punctuation / hexagram name
                     m_val = re.split(r'[,;\.\?]|\s+được quẻ', m_val)[0].strip()
-                    if m_val:
-                        querent_lines.append(clean_ste(m_val, 16))
+                    cl = clean_ste(m_val, 16)
+                    if cl and cl.lower() not in ['quẻ', 'quẻ này', 'xem quẻ']:
+                        querent_lines.append(cl)
                         break
             if querent_lines:
                 break
@@ -92,9 +159,16 @@ def parse_case(cpath, mismatches_map):
 
     da_hac_lines = []
     lines_list = text.split('\n')
-    prefixes_dh = ['Dã Hạc luận:', 'Dã Hạc nói:', 'Dã Hạc bảo:', 'Ta nói:', 'Dã Hạc:']
+    prefixes_dh = [
+        'Dã Hạc luận:', 'Đã Hạc luận:', 'Dã Hạc luận;', 'Đã Hạc luận;',
+        'Dã Hạc nói:', 'Đã Hạc nói:', 'Dã Hạc bảo:', 'Đã Hạc bảo:',
+        'Ta cười đáp:', 'Ta cười nói:', 'Ta cười mà nói:', 'Ta cười:',
+        'Ta đáp:', 'Ta bảo:', 'Ta nói:', 'Dã Hạc:', 'Đã Hạc:'
+    ]
     for idx, line in enumerate(lines_list):
         clean_l = line.replace('*', '').replace('#', '').strip()
+        if re.search(r'\b(?:anh|người|cô|bà|ông)\s+ta\s+nói', clean_l, re.IGNORECASE):
+            continue
         for prefix in prefixes_dh:
             if prefix.lower() in clean_l.lower():
                 m_pos = re.search(re.escape(prefix), clean_l, re.IGNORECASE)
@@ -102,6 +176,10 @@ def parse_case(cpath, mismatches_map):
                     rest = clean_l[m_pos.end():].strip()
                     if rest:
                         da_hac_lines.append(rest)
+                        if not rest.endswith(('.', '!', '?', ';', '…')) and idx + 1 < len(lines_list):
+                            nxt = lines_list[idx + 1].strip()
+                            if nxt and not nxt.startswith('#') and not nxt.startswith('---') and not nxt.startswith('|'):
+                                da_hac_lines.append(nxt)
                     else:
                         for nxt_idx in range(idx + 1, min(idx + 6, len(lines_list))):
                             nxt = lines_list[nxt_idx].strip()
@@ -116,7 +194,7 @@ def parse_case(cpath, mismatches_map):
         da_hac_summary = "Dã Hạc phân tích tương quan Thế Ứng và Dụng thần."
 
     # Dung Than
-    dung_than = "Dụng thần theo sự việc"
+    dung_than = ""
     for prefix in ['Dụng Thần:', 'Dụng thần:', 'Chọn Dụng thần:', 'Lấy làm Dụng thần:']:
         for line in text.split('\n'):
             if prefix in line:
@@ -124,27 +202,68 @@ def parse_case(cpath, mismatches_map):
                 if dt:
                     dung_than = clean_ste(dt, 12)
                     break
-        if dung_than != "Dụng thần theo sự việc":
+        if dung_than:
             break
+    if not dung_than and cm_text:
+        m_dt_reason = re.search(r'reason:\s*(?:Line\s+\d+\s*\(([^)]+)\)|([^\n]+))', cm_text)
+        if m_dt_reason and m_dt_reason.group(1):
+            dung_than = clean_ste(m_dt_reason.group(1).strip(), 12)
+        if not dung_than and 'first_principles_invoked:' in cm_text:
+            m_fpi = re.search(r'first_principles_invoked:\s*([^\n]+)', cm_text)
+            if m_fpi:
+                val = m_fpi.group(1).strip()
+                val = re.sub(r'\s*\(.*', '', val).strip()
+                val = re.sub(r'^(?:Dụng thần là|Chọn|Lấy)\s*', '', val, flags=re.IGNORECASE)
+                dung_than = clean_ste(val, 12)
+        if not dung_than and m_dt_reason and m_dt_reason.group(2):
+            dt = m_dt_reason.group(2)
+            if not re.search(r'\b(the|is|relation|standard|used|to|represent|proxy|case)\b', dt, re.I):
+                dung_than = clean_ste(dt.strip(), 12)
+    if not dung_than:
+        m_dt_inline = re.search(r'(?:lấy\s+)?(?:hào\s+)?([^\n,]+)\s+làm Dụng thần', text, re.IGNORECASE)
+        if m_dt_inline:
+            val = m_dt_inline.group(1).strip()
+            val = re.sub(r'^(?:Dã Hạc luận:?|Đã Hạc luận:?)\s*', '', val, flags=re.IGNORECASE)
+            dung_than = clean_ste(val, 12)
     if not dung_than:
         dung_than = "Dụng thần theo sự việc"
 
+    cm_data = {}
+    if cm_text:
+        try:
+            import yaml
+            ydata = yaml.safe_load('case_meaning:\n' + cm_text)
+            if isinstance(ydata, dict):
+                cm_data = ydata.get('case_meaning', {}) or {}
+        except Exception:
+            pass
+
     # Mechanism
-    mechanism = "Hào động tác dụng trực tiếp đến Dụng thần và Thế hào."
+    mechanism = ""
     for prefix in ['Cơ chế:', 'Nguyên lý:', 'Lý giải:', 'Đoán rằng:']:
         for line in text.split('\n'):
             if prefix in line:
                 val = line.split(prefix, 1)[1].strip()
                 if val:
-                    mechanism = clean_ste(val, 18)
+                    mechanism = clean_ste(val, 24)
                     break
-        if mechanism != "Hào động tác dụng trực tiếp đến Dụng thần và Thế hào.":
+        if mechanism:
             break
+    if not mechanism and cm_data:
+        swa = cm_data.get('signal_weighing_analysis', {})
+        if isinstance(swa, dict):
+            ps = swa.get('primary_signal', '')
+            if ps and not re.search(r'^[A-Za-z\s,_\.\-\'\"]+$', ps):
+                mechanism = clean_ste(ps.strip(), 24)
+            elif swa.get('author_weighing_logic'):
+                awl = swa.get('author_weighing_logic')
+                if not re.search(r'^[A-Za-z\s,_\.\-\'\"]+$', str(awl)):
+                    mechanism = clean_ste(str(awl).strip(), 24)
     if not mechanism:
         mechanism = "Hào động tác dụng trực tiếp đến Dụng thần và Thế hào."
 
     # Outcome
-    outcome = "Sự việc ứng nghiệm đúng theo quẻ báo."
+    outcome = ""
     for prefix in ['Nghiệm chứng:', 'Quả nhiên:', 'Ứng nghiệm:', 'Kết quả:']:
         for line in text.split('\n'):
             if prefix in line:
@@ -152,8 +271,22 @@ def parse_case(cpath, mismatches_map):
                 if res:
                     outcome = clean_ste(res, 18)
                     break
-        if outcome != "Sự việc ứng nghiệm đúng theo quẻ báo.":
+        if outcome:
             break
+    if not outcome:
+        m_qn = re.search(r'Quả nhiên\s*([^.\n]+(?:\.[^.\n]+)?)', text)
+        if m_qn:
+            raw_qn = "Quả nhiên " + m_qn.group(1).strip().lstrip(',;:- ')
+            raw_qn = re.sub(r'[\?,;].*', '', raw_qn).strip()
+            if 'bệnh không thể cứu' in text and 'bệnh' not in raw_qn:
+                raw_qn += ", bệnh không thể cứu."
+            outcome = clean_ste(raw_qn, 18)
+    if not outcome and cm_data:
+        ll = cm_data.get('lessons_learned', [])
+        if isinstance(ll, list) and ll:
+            fpa = ll[0].get('first_principle_axiom', '')
+            if fpa:
+                outcome = clean_ste(str(fpa).strip(), 18)
     if not outcome:
         outcome = "Sự việc ứng nghiệm đúng theo quẻ báo."
 
