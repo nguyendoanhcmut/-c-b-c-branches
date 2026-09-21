@@ -1,0 +1,22 @@
+[
+  {
+    "file": "vd_case3_vol01_ch08.md",
+    "can_chi": "Ngày Bính Thân tháng Thân (Tuần không: Thìn Tị)",
+    "querent": "Thân chủ hỏi sự việc thực tế, lo lắng cầu cát hung.",
+    "da_hac": "Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.",
+    "dung_than": "Lục thân định dụng thần",
+    "mechanism": "Dụng vượng Thế suy tắc sự bất thành.",
+    "outcome": "Sự việc ứng nghiệm đúng theo quẻ báo.",
+    "audit_verdict": "Lệch 3 điểm nạp giáp"
+  },
+  {
+    "file": "vd_case3_vol01_ch09.md",
+    "can_chi": "Ngày Quý Tị tháng Dậu (Tuần không: Ngọ Mùi)",
+    "querent": "Thân chủ hỏi sự việc thực tế, lo lắng cầu cát hung.",
+    "da_hac": "Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.",
+    "dung_than": "Dụng thần bất hiện",
+    "mechanism": "Dụng thần bất hiện chủ tâm lý lo âu.",
+    "outcome": "Sự việc ứng nghiệm đúng theo quẻ báo.",
+    "audit_verdict": "PASS"
+  }
+]

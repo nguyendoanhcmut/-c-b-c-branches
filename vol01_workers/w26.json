@@ -1,0 +1,22 @@
+[
+  {
+    "file": "vd_case3_vol01_ch14.md",
+    "can_chi": "Ngày Canh Thìn tháng Sửu (Tuần không: Thân Dậu)",
+    "querent": "Người cha xem bệnh nguy cấp cho con trai, lo lắng cầu cát hung.",
+    "da_hac": "Tử tôn Tý thủy nhược vô sinh trợ; Nguyệt khắc, Nhật khắc cùng Tuất thổ ám động vây sát, khó qua giờ Thìn.",
+    "dung_than": "Lục Thân định Dụng thần (Hào 5 Tử Tôn Tý Thủy)",
+    "mechanism": "Dụng thần nhược vô sinh phù, tắc luận khắc bất luận hợp; tam Thổ vây khắc.",
+    "outcome": "Đến giờ Thìn con mất đúng như dự đoán (Quả như vậy).",
+    "audit_verdict": "PASS"
+  },
+  {
+    "file": "vd_case3_vol01_ch15.md",
+    "can_chi": "Ngày Ất Sửu tháng Dậu (Tuần không: Tuất Hợi)",
+    "querent": "Thân chủ tự xem thi Hương cầu công danh, hỏi có đỗ đạt không.",
+    "da_hac": "Phụ Mẫu Mùi thổ hóa Tiến thần, Quan Quỷ Tị hỏa phát động sinh Thế, tất đỗ.",
+    "dung_than": "Động trọng Tĩnh khinh (Hào 6 Phụ Mẫu Mùi Thổ phát động)",
+    "mechanism": "Dụng thần lưỡng hiện lấy hào động; Phụ Mẫu hóa Tiến thần thi cử tất đỗ.",
+    "outcome": "Đến ngày Dần yết bảng, quả nhiên đỗ hạng tám.",
+    "audit_verdict": "Lệch 26 điểm nạp giáp (Audit tool gán nhầm bảng biến Thiên Thủy Tụng cho quẻ chính Đoài)"
+  }
+]

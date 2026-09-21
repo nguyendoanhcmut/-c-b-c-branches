@@ -1,0 +1,22 @@
+[
+  {
+    "file": "vd_case5_vol01_ch09.md",
+    "can_chi": "Ngày Mậu Dần tháng Tị (Tuần không: Thân Dậu)",
+    "querent": "Huynh trì Thế cơ mà?",
+    "da_hac": "Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.",
+    "dung_than": "Dụng thần lưỡng hiện",
+    "mechanism": "Huynh Đệ động hóa Mộ thì không khắc được Tài.",
+    "outcome": "Quả ngày kế tiếp có được.",
+    "audit_verdict": "Lệch 0 điểm nạp giáp"
+  },
+  {
+    "file": "vd_case5_vol01_ch11.md",
+    "can_chi": "Ngày Đinh Mão tháng Thân (Tuần không: Tuất Hợi)",
+    "querent": "Thân chủ hỏi sự việc thực tế, lo lắng cầu cát hung.",
+    "da_hac": "Dã Hạc phân tích tương quan Thế Ứng và Dụng thần.",
+    "dung_than": "Dụng thần tam hiện, ưu tiên Thế Ứng",
+    "mechanism": "Dụng thần tam hiện, ưu tiên vị trí Thế Ứng.",
+    "outcome": "Sự việc ứng nghiệm đúng theo quẻ báo.",
+    "audit_verdict": "PASS"
+  }
+]

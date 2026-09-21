@@ -1,0 +1,22 @@
+[
+  {
+    "file": "vd_case1_vol01_ch15.md",
+    "can_chi": "Ngày Đinh Hợi tháng Thìn (Tuần không: Ngọ Mùi)",
+    "querent": "Thân chủ hỏi việc có được bổ nhiệm chức vụ hay không.",
+    "da_hac": "Quẻ nội Hợi Mão Mùi hợp Tài cục sinh Thế Quan Tị hỏa, Thế lâm ám động.",
+    "dung_than": "Quan Quỷ Tị Hỏa trì Thế",
+    "mechanism": "Thê Tài cục sinh vượng Thế Dụng Quan Quỷ là điềm lành thăng tiến.",
+    "outcome": "Đến tháng Mùi xuất không hợp cục thành, quả được bổ nhiệm.",
+    "audit_verdict": "PASS"
+  },
+  {
+    "file": "vd_case1_vol01_ch16.md",
+    "can_chi": "Ngày Ất Mão tháng Thìn (Tuần không: Tý Sửu)",
+    "querent": "Thân chủ hỏi việc cầu tài, xem có đắc tài hay không.",
+    "da_hac": "Thế Tài Sửu thổ lâm không, Nguyên thần Tị hỏa động hóa Tý thủy hồi đầu khắc.",
+    "dung_than": "Thê Tài Sửu Thổ trì Thế, Dụng thần lưỡng hiện lấy Thế làm trọng",
+    "mechanism": "Hào động hóa hồi đầu khắc thì hào động đó vô dụng, không thể sinh Thế.",
+    "outcome": "Nguyên thần bị khắc tuyệt, Tài vô sinh trợ, chủ khó cầu tài.",
+    "audit_verdict": "PASS"
+  }
+]
